@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!--platform-->
+    <PlatformName>electron</PlatformName>
+
+    <!--Electron-->
+    <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>
+    <ElectronAppPath>C:\Users\liorh\AppData\Local\Programs\todolist\Todolist.exe</ElectronAppPath>
+
+    <!--API-->
+    <URLApi>http://localhost:9000/student</URLApi>
+
+    <!--mobile-->
+    <UDID>ce091609c0441f2a05</UDID>
+    <APP_PACKAGE>com.spotify.music</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+
+    <!--web-->
+    <URL>https://www.saucedemo.com/</URL>
+    <URLAfterLogin>https://www.saucedemo.com/inventory.html</URLAfterLogin>
+    <BrowserType>chrome</BrowserType>
+
+    <ImageRepo>./imageRepository/</ImageRepo>
+    <timeout>5</timeout>
+
+</Enviroment>

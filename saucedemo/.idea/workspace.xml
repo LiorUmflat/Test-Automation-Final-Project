@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dcaSlgmCisDWVeCGJB8L0sVXIk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CIAutomation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Automation\saucedemo\Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Automation\saucedemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TodolistElectron.test04_markAllTaskAsCompleted">
+    <configuration name="SpotifyMobile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.SpotifyMobile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodolistElectron.test03_markTaskAsCompleted (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.TodolistElectron" />
+      <option name="METHOD_NAME" value="test03_markTaskAsCompleted" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodolistElectron.test03_markTaskAsCompleted" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.TodolistElectron" />
+      <option name="METHOD_NAME" value="test03_markTaskAsCompleted" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodolistElectron.test04_markAllTaskAsCompleted" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.TodolistElectron" />
+      <option name="METHOD_NAME" value="test04_markAllTaskAsCompleted" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="saucedemoWeb" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.saucedemoWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TodolistElectron.test04_markAllTaskAsCompleted" />
+        <item itemvalue="TestNG.TodolistElectron.test03_markTaskAsCompleted (1)" />
+        <item itemvalue="TestNG.SpotifyMobile" />
+        <item itemvalue="TestNG.saucedemoWeb" />
+        <item itemvalue="TestNG.TodolistElectron.test03_markTaskAsCompleted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="" />
+      <created>1592726836392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592726836392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1595231296448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1595231296448" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594031789256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594031789256" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596174331729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596174331729" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592919229145" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596543483208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596543483208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596543483208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596543483208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596543483208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596543483208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596543483208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596543483208" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596110222458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596110222458" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596110222458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596110222458" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596110222458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596110222458" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596110222458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596110222458" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1592727513485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1592727513485" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596540052558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596540052558" />
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592919059989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WorkFlows/mobileFlows.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="mainPageToDoList.txt_tasksNames" language="JAVA" />
+        <watch expression="mainPageToDoList.txt_tasksNames" language="JAVA" />
+        <watch expression="elemList.get(i).getText()" language="JAVA" />
+        <watch expression="elemList.get(i).findElement(By.xpath(Textxpath)).getText()" language="JAVA" />
+        <watch expression="elemList.get(i).findElements(By.xpath(Textxpath)).get(i).getText()" language="JAVA" />
+        <watch expression="elemList.get(i).findElements(By.tagName(tag)).size()" language="JAVA" />
+        <watch expression="elemList.get(i)" language="JAVA" />
+        <watch expression="elemList.get(i).findElement(By.xpath(Textxpath))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
