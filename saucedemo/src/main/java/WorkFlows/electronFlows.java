@@ -6,9 +6,7 @@ import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 
-import java.security.cert.Extension;
 import java.util.List;
 
 public class electronFlows extends CommonOps
@@ -69,6 +67,20 @@ public class electronFlows extends CommonOps
             }
         }
         return counter;
+    }
+
+    @Step("delete task from the list of tasks")
+    public static void deleteTask(String taskName)
+    {
+        int numofTasks = countNumOfTasks();
+        for (int i=0;i<numofTasks;i++)
+        {
+            if(mainPageToDoList.txt_tasksNames.get(i).getText().equals(taskName))
+            {
+                action.moveToElement(mainPageToDoList.btn_x.get(i)).click().build().perform();
+                break;
+            }
+        }
     }
 
 }

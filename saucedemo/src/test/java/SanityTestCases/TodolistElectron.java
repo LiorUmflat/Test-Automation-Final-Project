@@ -51,5 +51,18 @@ public class TodolistElectron extends CommonOps
         verifications.verifyText(Integer.toString(electronFlows.tasksMarkedAsCompleted(mainPageToDoList.list_markAsCompletedIcons)),"3");
     }
 
+    @Test(description = "Test 05: delete one task from the list")
+    @Description("Test Description: delete one task from the list and verify it was deleted")
+    public void test05_deleteTaskFromTheList() throws InterruptedException
+    {
+        electronFlows.AddNewTask("Lior");
+        electronFlows.AddNewTask("Tamar");
+        electronFlows.AddNewTask("Yaki");
+
+        electronFlows.deleteTask("Tamar");
+
+        verifications.verifySizeOfWebElementList(mainPageToDoList.list_tasks,"2");
+        verifications.verifyWebElementListContainsOrNotContainsText(mainPageToDoList.txt_tasksNames,"Tamar",false);
+    }
 
 }
