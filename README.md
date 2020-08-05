@@ -1,5 +1,4 @@
-"# Test-Automation-Final-Project" 
-My Test Automation Final Project includes the following:
+Test Automation Final Project includes the following:
 * Automation infrastructure
 * PageObjects Pattern
 * Project layers (Extensions, Work Flows, Test cases...)
