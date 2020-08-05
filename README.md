@@ -10,5 +10,5 @@ Test Automation Final Project includes the following:
 * Sanity tests to the following platforms:
 1. Web - https://www.saucedemo.com/
 2. Mobile - Spotify
-3. Rest API - students APi
+3. Rest API - students API
 4. Electron App - ToDoList
