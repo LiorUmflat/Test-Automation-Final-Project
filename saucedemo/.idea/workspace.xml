@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0914d59f-8b4e-424b-9694-d000f3837877-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/09919bbd-6a1f-427f-8544-e426e5eb5b61-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0b27afc1-a33d-4da4-be44-a0ee070d4b93-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1440d309-c630-4f9a-9eca-8dc0f6f3331e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1bb3a666-42d9-4808-945b-21457c9e592a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2271ca4e-7791-4601-91f7-2b8b0c132c27-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2598ed74-2e82-498d-985b-1777e0c33214-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2bb06e13-39b6-4bef-a553-eb8597480bcc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/32465fda-d45c-4f2b-b2ed-8910f3db5d9a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3a45c2f8-cf7d-4ec0-9f34-559f93318d04-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/43de1180-55ff-44ea-ae07-3639a9fd6310-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/476605de-1a66-48b6-b2a5-9d20c67dfa6c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4aa272f1-20eb-4399-b889-d31ddf61c941-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5b4543e4-c19a-4d5f-8908-1979480f3b13-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/65141a9b-5798-40ff-9641-b46183909843-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6f118b77-44e5-4a4a-b088-fb7fd8353f8a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7373daa7-592c-473e-aed2-48304bc845b9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/78c6495b-eb3e-49f4-85e4-c1367e462689-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/83d9d70e-69ff-400e-b825-508cb6890284-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8b160e26-0937-447c-a7c6-9731dea08ef8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8c91e707-07da-4620-a170-48f6d13ce910-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9b172e15-8739-469b-886e-41604cbbb7a1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a9207547-4ead-4bbe-ad8b-9971b2beee82-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/aa135c4b-5427-46a6-8f2f-f3512a137033-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b08f05c5-de16-472a-ae57-5f000e2a6f7a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b170c913-423f-48e8-8fc9-26871e7ba041-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b2c70ca3-06a2-410b-805a-e6f356ba8fef-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bf218ccb-e4f2-441d-8520-7ae36e71a76f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c82a3ece-8a96-4a6b-aaf6-0c8025db26db-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c8676027-f1c6-432a-9000-1a5bef2f5494-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cb2a3b9c-b70b-4c11-8a10-5fa155c70d44-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cf350f5f-481c-407f-aaa5-311c99870ae1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/da303198-63e4-4934-bba1-de14792a2e32-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/daf2e786-77a6-4417-baa1-77765ddb8ff3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/de63be21-8529-486f-8b18-dff24d0ae3c2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/df1161fb-5be3-4deb-90a7-d7079fb96535-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e07d8739-c4b5-4b46-98e3-0ae452e69112-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e651aae2-b56e-42e7-8432-bbb7669abeae-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed59f4f5-bd4d-4bdd-b836-90cf13466fc1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f3cd3969-ea01-4a51-8e70-9e643053ff7d-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WorkFlows/electronFlows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkFlows/electronFlows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/saucedemo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WorkFlows/electronFlows.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WorkFlows/electronFlows.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SanityTestCases/TodolistElectron.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SanityTestCases/TodolistElectron.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,10 +160,19 @@
       <option name="presentableId" value="Default" />
       <updated>1592726836392</updated>
     </task>
+    <task id="LOCAL‎00001" summary="final electron project">
+      <created>1596613493655</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1596613493655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="final electron project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final electron project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1595231296448">
@@ -220,10 +183,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594031789256" />
-    <state x="422" y="7" key="CommitChangelistDialog2" timestamp="1596613492673">
+    <state x="422" y="7" key="CommitChangelistDialog2" timestamp="1596617326594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="422" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596613492673" />
+    <state x="422" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596617326594" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596174331729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
