@@ -43,7 +43,7 @@ public class verifications extends CommonOps
     @Step("verify the size of List<WebElement> is equal to a given expected amount")
     public static void verifySizeOfWebElementList(List<WebElement> items,String expectedAmountOfItems)
     {
-        Assert.assertEquals(Integer.toString(items.size()),expectedAmountOfItems);
+        softAssertion.assertEquals(Integer.toString(items.size()),expectedAmountOfItems);
     }
 
     @Step("verify WebElement is displayed")
@@ -77,16 +77,16 @@ public class verifications extends CommonOps
         }
         if(containsOrNot == false)
         {
-            Assert.assertFalse(flag);
+            softAssertion.assertFalse(flag);
         }
         else
         {
-            Assert.assertTrue(flag);
+            softAssertion.assertTrue(flag);
         }
     }
 
-    @Step("verify 2 given texts are equal")
-    public static void verifyText(String actual, String expected)
+    @Step("verify 2 given int are equal")
+    public static void verifyInt(int actual, int expected)
     {
         Assert.assertEquals(expected,actual);
     }
@@ -97,13 +97,13 @@ public class verifications extends CommonOps
         Assert.assertNotEquals(actual,expected);
     }
 
-    @Step("verify if WebElement in List<WebElement> has a specific tag and if it has an inside element with text that is equal to a desired text")
-    public static void VerifyWebElementInListContainTag(List<WebElement> elemList,String elemText,String tag, String Textxpath)
+    @Step("verify if WebElement in List<WebElement> has a specific tag and if List<WebElement> has on the same index text that is equal to a given text")
+    public static void VerifyWebElementInListContainTag(List<WebElement> elemList,String tag , List<WebElement> textElemList, String elemText)
     {
         boolean flag=false;
         for(int i=0;i< elemList.size();i++)
         {
-            if(elemList.get(i).findElements(By.tagName(tag)).size()!=0 && elemList.get(i).findElements(By.xpath(Textxpath)).get(i).getText().equals(elemText))
+            if(elemList.get(i).findElements(By.tagName(tag)).size()!=0 && textElemList.get(i).getText().equals(elemText))
             {
                 flag=true;
             }

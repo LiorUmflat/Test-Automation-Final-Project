@@ -15,7 +15,7 @@ public class TodolistElectron extends CommonOps
     public void test01_AddNewTask()
     {
         electronFlows.AddNewTask("lior");
-        Extensions.verifications.verifyText(Integer.toString(electronFlows.countNumOfTasks()),"1");
+        Extensions.verifications.verifyInt(electronFlows.countNumOfTasks(),1);
     }
 
     @Test(description = "Test 02: add 2 new tasks")
@@ -24,31 +24,31 @@ public class TodolistElectron extends CommonOps
     {
         electronFlows.AddNewTask("Lior");
         electronFlows.AddNewTask("Tamar");
-        Extensions.verifications.verifyText(Integer.toString(electronFlows.countNumOfTasks()),"2");
+        Extensions.verifications.verifyInt(electronFlows.countNumOfTasks(),2);
     }
 
     @Test(description = "Test 03: mark task as completed")
     @Description("Test Description: mark task as completed and verify it has V sign")
-    public void test03_markTaskAsCompleted() throws InterruptedException
+    public void test03_markTaskAsCompleted()
     {
         electronFlows.AddNewTask("Lior");
         electronFlows.AddNewTask("Tamar");
         electronFlows.AddNewTask("Yaki");
         electronFlows.markTaskAsCompleted("Tamar");
 
-        verifications.VerifyWebElementInListContainTag(mainPageToDoList.list_markAsCompletedIcons,"Tamar","path","//div[@class='textWrapper_X9gil']/label");
+        verifications.VerifyWebElementInListContainTag(mainPageToDoList.list_markAsCompletedIcons,"path",mainPageToDoList.txt_tasksNames, "Tamar");
     }
 
     @Test(description = "Test 04: mark all task as completed")
     @Description("Test Description: mark all task as completed and verify they has V sign")
-    public void test04_markAllTaskAsCompleted() throws InterruptedException
+    public void test04_markAllTaskAsCompleted()
     {
         electronFlows.AddNewTask("Lior");
         electronFlows.AddNewTask("Tamar");
         electronFlows.AddNewTask("Yaki");
         electronFlows.markAllTaskAsCompleted();
 
-        verifications.verifyText(Integer.toString(electronFlows.tasksMarkedAsCompleted(mainPageToDoList.list_markAsCompletedIcons)),"3");
+        verifications.verifyInt(electronFlows.tasksMarkedAsCompleted(mainPageToDoList.list_markAsCompletedIcons),3);
     }
 
     @Test(description = "Test 05: delete one task from the list")
@@ -63,6 +63,7 @@ public class TodolistElectron extends CommonOps
 
         verifications.verifySizeOfWebElementList(mainPageToDoList.list_tasks,"2");
         verifications.verifyWebElementListContainsOrNotContainsText(mainPageToDoList.txt_tasksNames,"Tamar",false);
+        softAssertion.assertAll();
     }
 
 }

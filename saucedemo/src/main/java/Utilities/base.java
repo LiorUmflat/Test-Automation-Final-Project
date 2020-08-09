@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.asserts.SoftAssert;
 import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.comparison.ImageDiff;
 import ru.yandex.qatools.ashot.comparison.ImageDiffer;
@@ -22,6 +23,7 @@ public class base
     public static Screenshot ImageScreenShot;
     public static ImageDiff diff;
     public static ImageDiffer imageDiff = new ImageDiffer();
+    public static SoftAssert softAssertion = new SoftAssert();
 
     public static AndroidDriver<AndroidElement> androidMobileDriver;
     DesiredCapabilities dc = new DesiredCapabilities();

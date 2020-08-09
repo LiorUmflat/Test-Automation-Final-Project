@@ -20,7 +20,7 @@ public class StudentsAPI extends CommonOps
     public void test_01_GetStudents()
     {
         APIFlows.GetStudentsIDs();
-        verifications.verifyText(Integer.toString(StudentsIDs.length),"100");
+        verifications.verifyInt(StudentsIDs.length,100);
     }
 
     @Test(description = "Add new student to the server")
@@ -30,7 +30,7 @@ public class StudentsAPI extends CommonOps
         List<String> courses = Arrays.asList("Java","Selenium","appium");
         APIFlows.AddNewStudent("Lior","Umflat","lior.hammer@gmail.com","Automation",courses);
         APIFlows.GetStudentsIDs();
-        verifications.verifyText(Integer.toString(StudentsIDs.length),"101");
+        verifications.verifyInt(StudentsIDs.length,101);
         lastID = StudentsIDs[StudentsIDs.length-1];
         lastID = lastID.substring(0,lastID.length()-1);
     }
@@ -52,7 +52,7 @@ public class StudentsAPI extends CommonOps
     {
         APIFlows.deleteStudent(lastID);
         APIFlows.GetStudentsIDs();
-        verifications.verifyText(Integer.toString(StudentsIDs.length),"100");
+        verifications.verifyInt(StudentsIDs.length,100);
     }
 
 }

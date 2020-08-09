@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Enviroment>
     <!--platform-->
-    <PlatformName>electron</PlatformName>
+    <PlatformName>web</PlatformName>
 
     <!--Electron-->
     <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>
