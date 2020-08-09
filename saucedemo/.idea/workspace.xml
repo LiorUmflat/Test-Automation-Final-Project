@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/allure-results/13d9d242-e7c4-4512-89bd-d1d029412919-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1909fa99-17fa-41a4-9003-e27ed9a81344-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1cbaa227-06d8-4e95-9f3c-6d347de9d31d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/36b0a035-b1d7-4f46-a075-f0d1ac514e50-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/426590c5-386c-4bbc-89b7-880a1039f4ae-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4b6616d6-704b-4a74-9771-bf0e242cbb0e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/53842125-9208-4218-b81a-ae3700551997-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5c53b516-580e-4893-989c-f932cc3e0741-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/805ad733-67d1-429a-bf02-debdc1b59e88-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8400a308-8f83-4160-8bab-64f718e0188e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c12a258d-099d-4e57-be65-9dc6f2636c25-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c26bda5b-986d-4422-94a2-339b5508a179-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d3a8a66a-1a04-4701-ada6-c44877c7c133-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e378f49f-508c-477e-9518-4efe2dc3875a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ec37eb7b-5ef2-4327-93bf-b7836b8c96f7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ef2452a8-26f2-4612-b34f-008d4c792f6b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,22 +192,22 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596697075995" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592919229145" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596961031028">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596965836764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596961031028" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596961031027">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596965836764" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596965836764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596961031027" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596961031027">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596965836764" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596965836764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596961031027" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596961031028">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596965836764" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596965836764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596961031028" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596965836764" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596625422277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
