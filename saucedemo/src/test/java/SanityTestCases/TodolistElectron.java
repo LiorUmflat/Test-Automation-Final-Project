@@ -35,7 +35,7 @@ public class TodolistElectron extends CommonOps
         electronFlows.AddNewTask("Tamar");
         electronFlows.AddNewTask("Yaki");
         electronFlows.markTaskAsCompleted("Tamar");
-        
+
         verifications.verifyWebElementListContainsOrNotContainsText(mainPageToDoList.list_completedTasks,"Tamar",true);
     }
 

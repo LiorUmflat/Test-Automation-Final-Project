@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/68b6494a-fcbe-45ba-aa9d-1f4f41caf763-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/71ae3319-fbe4-48d9-87ed-876aaea46d3c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98f1db21-345b-4f65-95e8-ec47558f6d3b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9ccc9ca0-3d76-4090-a086-a6ef135df205-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a6f46d0d-10c2-47fd-a09f-1241b82c2ebf-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Extensions/verifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extensions/verifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/Todolist/mainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Todolist/mainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Extensions/verifications.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Extensions/verifications.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Todolist/mainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageObjects/Todolist/mainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SanityTestCases/TodolistElectron.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SanityTestCases/TodolistElectron.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
