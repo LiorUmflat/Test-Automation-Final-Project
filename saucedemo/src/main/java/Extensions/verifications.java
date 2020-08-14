@@ -97,7 +97,7 @@ public class verifications extends CommonOps
         Assert.assertNotEquals(actual,expected);
     }
 
-    @Step("verify if WebElement in List<WebElement> has a specific tag and if List<WebElement> has on the same index text that is equal to a given text")
+    /*@Step("verify if WebElement in List<WebElement> has a specific tag and if List<WebElement> has on the same index text that is equal to a given text")
     public static void VerifyWebElementInListContainTag(List<WebElement> elemList,String tag , List<WebElement> textElemList, String elemText)
     {
         boolean flag=false;
@@ -109,7 +109,7 @@ public class verifications extends CommonOps
             }
         }
         Assert.assertTrue(flag);
-    }
+    }*/
 
     @Step("verify element visually")
     public static void visualElement(WebElement imageElement, String ExpectedImageName)

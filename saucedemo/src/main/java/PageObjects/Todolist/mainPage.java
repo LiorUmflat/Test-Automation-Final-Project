@@ -26,4 +26,7 @@ public class mainPage
     @FindBy (how = How.CLASS_NAME,using = "allCompletedIconWrapper_2rCqr")
     public static WebElement btn_markAllTaskAsCompleted;
 
+    @FindBy (how = How.CLASS_NAME,using = "completed_bHv-Q")
+    public static List<WebElement> list_completedTasks;
+
 }

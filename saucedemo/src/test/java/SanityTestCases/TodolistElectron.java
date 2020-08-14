@@ -35,8 +35,8 @@ public class TodolistElectron extends CommonOps
         electronFlows.AddNewTask("Tamar");
         electronFlows.AddNewTask("Yaki");
         electronFlows.markTaskAsCompleted("Tamar");
-
-        verifications.VerifyWebElementInListContainTag(mainPageToDoList.list_markAsCompletedIcons,"path",mainPageToDoList.txt_tasksNames, "Tamar");
+        
+        verifications.verifyWebElementListContainsOrNotContainsText(mainPageToDoList.list_completedTasks,"Tamar",true);
     }
 
     @Test(description = "Test 04: mark all task as completed")
