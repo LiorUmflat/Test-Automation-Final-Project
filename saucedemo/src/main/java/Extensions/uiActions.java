@@ -14,7 +14,7 @@ public class uiActions extends CommonOps
     @Step("click on an element")
     public static void clickElement(WebElement elem)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron"))
+        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron") && !getData("PlatformName").equalsIgnoreCase("desktop"))
         {
             wait.until(ExpectedConditions.elementToBeClickable(elem));
         }
@@ -24,7 +24,7 @@ public class uiActions extends CommonOps
     @Step("enter string to an element")
     public static void sendKeysToElement(WebElement elem,String keys)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron"))
+        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron") && !getData("PlatformName").equalsIgnoreCase("desktop"))
         {
             wait.until(ExpectedConditions.visibilityOf(elem));
         }

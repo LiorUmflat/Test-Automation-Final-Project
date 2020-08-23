@@ -26,5 +26,13 @@ public class managePages extends base
 
         //electron
         mainPageToDoList = PageFactory.initElements(driver,PageObjects.Todolist.mainPage.class);
+
+        //desktop
+        initialPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.initialPage.class);
+        loginPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.loginPage.class);
+        usersPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.usersPage.class);
+        mainPageInitPopupNetflix = PageFactory.initElements(driver,PageObjects.Netflix.mainPageInitPopup.class);
+        mainPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.mainPage.class);
+
     }
 }

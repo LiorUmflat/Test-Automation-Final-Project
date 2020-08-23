@@ -6,6 +6,7 @@ import WorkFlows.webFlows;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
+import io.appium.java_client.windows.WindowsDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.restassured.RestAssured;
 import org.openqa.selenium.WebDriver;
@@ -131,6 +132,20 @@ public class CommonOps extends base
         action = new Actions(driver);
     }
 
+    public void initDesktop()
+    {
+        dc.setCapability("app",getData("AUMID"));
+        try
+        {
+            driver = new WindowsDriver(new URL(getData("appium_server")), dc);
+        }
+        catch (Exception e)
+        {
+            System.out.println("Cannot Connect To Appium Server, See Details: " + e);
+        }
+        driver.manage().timeouts().implicitlyWait(Long.parseLong(getData("timeout")),TimeUnit.SECONDS);
+    }
+
     @BeforeClass
     public void StartSession()
     {
@@ -149,6 +164,10 @@ public class CommonOps extends base
         else if (getData("PlatformName").equalsIgnoreCase("electron"))
         {
             initElectron();
+        }
+        else if(getData("PlatformName").equalsIgnoreCase("desktop"))
+        {
+            initDesktop();
         }
         else
             throw new RuntimeException("Invalid platform name");

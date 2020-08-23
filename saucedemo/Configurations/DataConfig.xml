@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Enviroment>
     <!--platform-->
-    <PlatformName>electron</PlatformName>
+    <PlatformName>desktop</PlatformName>
+
+    <!--desktop-->
+    <AUMID>4DF9E0F8.Netflix_mcm4njqhnhss8!Netflix.App</AUMID>
+    <appium_server>http://127.0.0.1:4723</appium_server>
 
     <!--Electron-->
     <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>

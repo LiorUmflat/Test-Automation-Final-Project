@@ -2,8 +2,9 @@ package WorkFlows;
 
 import Utilities.CommonOps;
 import io.qameta.allure.Step;
-import net.sourceforge.htmlunit.corejs.javascript.tools.shell.QuitAction;
-import org.boon.Str;
+//remove the following from notes when testing mobile app
+//import net.sourceforge.htmlunit.corejs.javascript.tools.shell.QuitAction;
+//import org.boon.Str;
 
 import java.security.cert.Extension;
 

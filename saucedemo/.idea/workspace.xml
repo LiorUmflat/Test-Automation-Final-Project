@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/01ab792e-0d30-46a4-bc9e-5406430ecee9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02a742fd-9fcf-4237-b79e-28585920535b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20c6796b-4b26-42ed-b82f-a3fb0eb3a644-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b4d4367-e99a-40de-8a74-df8cfcf6fc4e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3111efba-10c3-4cc4-b724-d9f5dce2a2e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f67f1b8-3aea-4eab-93b8-313092a8a7e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/600bbbf2-9416-40a5-97e6-dd1bee446f30-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66ceb429-cc6c-4414-92c0-0678087fcf55-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ef398a6-3294-4775-b9b0-a3478cd2364b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/792e214b-f1e6-4c36-b8a0-79c6f18573ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/867141f5-c2f9-4680-9778-de2c82701bcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87bb80ee-d44a-40b1-8ca0-75641c12446d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a35037b9-cb59-4fc7-b0ff-a8ddba89dfaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8b1faf1-8bd8-48ae-bae4-3bdf3754eab8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b04505cf-5d2b-4621-a664-98b4e848365c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b4c9f782-5c66-4358-87b1-bab64b2cd0d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c60658b2-5802-4d92-83fa-e84c6db71497-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0ee6960-fb44-4764-9831-b084c69dca94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da96d0b1-0298-45cf-af7b-98083cf4d900-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f75ef572-021b-46d2-8247-6db5c2597e7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc466a02-7a6e-40c4-9d10-68972497632b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Netflix/initialPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Netflix/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Netflix/mainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Netflix/mainPageInitPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Netflix/usersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WorkFlows/desktopFlows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SanityTestCases/NetflixDesktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SanityTestCases/TodolistElectron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configurations/DataConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/DataConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Extensions/uiActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extensions/uiActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/CommonOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/CommonOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/managePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/managePages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WorkFlows/mobileFlows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkFlows/mobileFlows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Extensions/uiActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Extensions/uiActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/CommonOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/CommonOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/managePages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/managePages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WorkFlows/mobileFlows.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WorkFlows/mobileFlows.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +90,25 @@
       <recent name="C:\Automation\saucedemo" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TodolistElectron">
+  <component name="RunManager" selected="TestNG.NetflixDesktop.test01_loginToNetflix">
+    <configuration name="NetflixDesktop.test01_loginToNetflix" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTestCases" />
+      <option name="MAIN_CLASS_NAME" value="SanityTestCases.NetflixDesktop" />
+      <option name="METHOD_NAME" value="test01_loginToNetflix" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TodolistElectron" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="saucedemo" />
       <extension name="coverage">
@@ -80,24 +137,6 @@
       <option name="PACKAGE_NAME" value="SanityTestCases" />
       <option name="MAIN_CLASS_NAME" value="SanityTestCases.TodolistElectron" />
       <option name="METHOD_NAME" value="test03_markTaskAsCompleted" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TodolistElectron.test05_deleteTaskFromTheList" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="saucedemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SanityTestCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SanityTestCases" />
-      <option name="MAIN_CLASS_NAME" value="SanityTestCases.TodolistElectron" />
-      <option name="METHOD_NAME" value="test05_deleteTaskFromTheList" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -142,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NetflixDesktop.test01_loginToNetflix" />
         <item itemvalue="TestNG.TodolistElectron" />
         <item itemvalue="TestNG.TodolistElectron.test03_markTaskAsCompleted" />
         <item itemvalue="TestNG.saucedemoWeb" />
         <item itemvalue="TestNG.saucedemoWeb.test03_addItemToChart" />
-        <item itemvalue="TestNG.TodolistElectron.test05_deleteTaskFromTheList" />
       </list>
     </recent_temporary>
   </component>
@@ -193,38 +232,38 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596697075995" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592919229145" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597393769232">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598169685263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597393769232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597393769232">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598169685263" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598169685263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597393769232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597393769232">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598169685263" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598169685263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597393769232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597393769232">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598169685263" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598169685263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597393769232" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1597393737407">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598169685263" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1597394416947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597393737407" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1597393737406">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597394416947" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1597394416947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597393737406" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1597393737406">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597394416947" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1597394416947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597393737406" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1597393737407">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597394416947" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1597394416947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597393737407" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597394416947" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1592727513485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,7 +283,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/WorkFlows/mobileFlows.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

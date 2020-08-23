@@ -54,8 +54,14 @@ public class base
     public static String lastID;
     public static String [] StudentsIDs;
 
-
     //electron
     public static PageObjects.Todolist.mainPage mainPageToDoList;
     public static Actions action;
+
+    //desktop
+    public static PageObjects.Netflix.initialPage initialPageNetflix;
+    public static PageObjects.Netflix.loginPage loginPageNetflix;
+    public static PageObjects.Netflix.usersPage usersPageNetflix;
+    public static PageObjects.Netflix.mainPageInitPopup mainPageInitPopupNetflix;
+    public static PageObjects.Netflix.mainPage mainPageNetflix;
 }
