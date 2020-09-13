@@ -59,9 +59,9 @@ public class base
     public static Actions action;
 
     //desktop
-    public static PageObjects.Netflix.initialPage initialPageNetflix;
-    public static PageObjects.Netflix.loginPage loginPageNetflix;
-    public static PageObjects.Netflix.usersPage usersPageNetflix;
-    public static PageObjects.Netflix.mainPageInitPopup mainPageInitPopupNetflix;
-    public static PageObjects.Netflix.mainPage mainPageNetflix;
+    public static PageObjects.StickyNotes.mainPage mainPageSticky;
+    public static PageObjects.StickyNotes.settingsPage settingsPageSticky;
+    public static PageObjects.StickyNotes.SignInPage SignInPageSticky;
+    public static PageObjects.StickyNotes.signOutPopUp signOutPopUpSticky;
+    public static PageObjects.StickyNotes.notePopUp notePopUpSticky;
 }

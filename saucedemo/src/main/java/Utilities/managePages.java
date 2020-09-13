@@ -28,11 +28,10 @@ public class managePages extends base
         mainPageToDoList = PageFactory.initElements(driver,PageObjects.Todolist.mainPage.class);
 
         //desktop
-        initialPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.initialPage.class);
-        loginPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.loginPage.class);
-        usersPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.usersPage.class);
-        mainPageInitPopupNetflix = PageFactory.initElements(driver,PageObjects.Netflix.mainPageInitPopup.class);
-        mainPageNetflix = PageFactory.initElements(driver,PageObjects.Netflix.mainPage.class);
-
+        mainPageSticky = PageFactory.initElements(driver,PageObjects.StickyNotes.mainPage.class);
+        settingsPageSticky = PageFactory.initElements(driver,PageObjects.StickyNotes.settingsPage.class);
+        SignInPageSticky = PageFactory.initElements(driver,PageObjects.StickyNotes.SignInPage.class);
+        signOutPopUpSticky = PageFactory.initElements(driver,PageObjects.StickyNotes.signOutPopUp.class);
+        notePopUpSticky = PageFactory.initElements(driver,PageObjects.StickyNotes.notePopUp.class);
     }
 }

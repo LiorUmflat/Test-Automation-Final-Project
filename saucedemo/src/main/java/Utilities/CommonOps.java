@@ -1,5 +1,6 @@
 package Utilities;
 
+import WorkFlows.desktopFlows;
 import WorkFlows.electronFlows;
 import WorkFlows.mobileFlows;
 import WorkFlows.webFlows;
@@ -9,6 +10,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.windows.WindowsDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.restassured.RestAssured;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -26,6 +28,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 import java.net.URL;
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 public class CommonOps extends base
@@ -146,6 +149,7 @@ public class CommonOps extends base
         driver.manage().timeouts().implicitlyWait(Long.parseLong(getData("timeout")),TimeUnit.SECONDS);
     }
 
+
     @BeforeClass
     public void StartSession()
     {
@@ -185,6 +189,10 @@ public class CommonOps extends base
         if(getData("PlatformName").equalsIgnoreCase("electron"))
         {
             electronFlows.EmptyListOfTasks();
+        }
+        if(getData("PlatformName").equalsIgnoreCase("desktop"))
+        {
+            desktopFlows.returnToMainPage();
         }
     }
 
