@@ -12,3 +12,4 @@ Test Automation Final Project includes the following:
 2. Mobile - Spotify
 3. Rest API - students API
 4. Electron App - ToDoList
+5. Desktop App - Sticky Notes
