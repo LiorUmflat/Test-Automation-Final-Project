@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/allure-results/00a095be-6c56-4976-8003-5bab64abff74-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0144cd25-c74d-4ebe-b433-67d8371027df-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0336faa1-c111-4dd1-84d2-8b2b9d55828b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/07d6d172-5693-420f-96cc-caf4e93f1202-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/088785ff-210b-4202-b5b3-060dc8906412-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/08cb5899-0f82-49cf-bd58-d519ff956c45-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/08ef43c3-3eca-4257-8b2f-4b1b9c63cccd-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0cce31a9-2c70-4f5c-ba91-6e9166e59122-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0d94f7ee-5579-490d-a7f2-0e5476103377-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/15b91388-69e4-416d-8e7c-6285857b691f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/15d806d5-306f-4a0c-9d9d-e7b2c114fde7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1b6f697c-7fbf-432d-8888-03b6b0fadd47-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1d08fabc-6274-4a1f-be72-1c0a3c6fcedb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1e15d5c2-9d67-4a40-bc76-cca9c69021b6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/204d0177-c447-4c56-85be-fc8211b92327-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2bba6235-adc9-47aa-abda-17698fab19fd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3374a174-41d2-4353-a5ed-230d9cc44b75-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/33e74223-299c-4f8c-8720-dbfebc51b0b7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/37c80165-c448-49c1-a0f1-bf95a2ff8c50-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3ab949b6-5881-45b1-a98a-d55469fe227d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3b632c35-7d65-495a-b5fc-8b08dbfe6c5c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/45a80bc3-65bb-44ed-84d0-d3970235aa44-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5873fa8a-8674-4c25-bb4a-40a0bfde8562-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/59d3afd2-1584-4c1f-a938-4029ad895634-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5a368872-87bd-410f-ba79-f2545dbc1137-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5aa9f00e-6580-4a42-85aa-67d177897034-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5ca4073e-9497-4a6c-ac28-4da6ed45bf68-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5f4f42a9-bf30-4160-be38-aebf68fa785c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/60b6547e-f148-4de2-9f24-3d9e3d6d0786-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/67af635f-27e2-47c7-a062-9aee461ea0ee-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6866b21b-d132-4089-b8d8-d20f18908db1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6881aff7-8812-41b2-b784-4b1496fec597-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/73b1174f-ea29-4b49-ab50-872835b69691-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/75617844-c90d-4fc4-bb1c-a14559eef5ef-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7cbfcacd-4f03-4e16-bbca-0dc7da261837-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7db38673-5676-4e16-9e8d-db53bf114155-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8209743e-94f2-4635-a27e-0769ae0f9903-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/82a4614b-bd21-4168-ad3b-51c4bd48c51e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/87bcf55c-bf13-4d6c-b453-dc0a0fd4e37a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/880a2744-d86d-441d-8af7-61025bd7cfb4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/89533153-d7cc-48fb-88de-d1ff992a5d1a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9073ac24-3f0e-408e-a5ab-b2de14dbaba3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/90a295a2-d70a-431c-bd4b-70529208b663-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/910b63a9-f144-4f03-874f-446ad9bc402f-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/91a0f836-1d46-4524-8143-cea9cbfa1330-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/92177571-5d0f-4406-8b6c-31eb2ee35e27-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/928acd29-8116-4295-9ab3-be62b1369bc5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/939426db-8556-45d7-af6b-97f04224e9ed-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/96386208-6224-48ca-a20a-32a823564748-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9720de22-c4f8-4631-8748-bc203629de7f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/992e8138-c79f-4a16-908e-a48d81a019c3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/997fd43d-6ae1-4d1c-a4d7-78ee09f06709-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9cb14bad-7285-4880-996d-fea2845a10dc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9cdbda2f-d765-40c4-a581-8b01105e828d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9dd0e94d-4e8a-4467-acdb-e30b482b1685-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a2bf84d8-f871-4d04-8a16-836368151497-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a5e9c13d-ed6d-4d24-a5ce-d1aa9c33012e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a5f415fa-7a13-4c74-bcca-52face614def-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a6689f25-8ae6-4228-83ef-e601aef856d2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aafcf8dc-82ba-4af9-a058-7c9b0ce63ebe-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ac49d8d1-d97c-4635-8190-efad076cb9a0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bafba9da-c291-43ab-a0bd-b1c060ba8ce6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c8d714d8-fa9f-46ad-92e7-98fcd2a3274a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c97b10fd-d0b2-41df-8b50-c0879a7088d2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cf8c2601-bf14-4425-be5b-ab346be74a1d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d3448b55-1570-4a68-b596-a6b0db74ec35-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d6720ecd-2c62-4007-90ed-a83be948d5e4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d7d5f253-7849-4800-bec1-bd7a61e728d7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d82152af-8ff8-42ed-b9a6-6ed9b436a4cf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dc0a7df9-effb-48b0-8fcb-07c672022f60-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e08d19d1-aa65-4261-9881-493199197d82-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e0e8f2b1-2b3a-4241-a316-84c698f46c9f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e1505946-3393-4381-94b9-5bb7fe1f7e69-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e51d95f3-9029-4dda-8d84-ff763aaf0123-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ea8bd71e-06b5-48c1-869e-03437cbc49bd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/efbc49fb-ad4c-4c54-80ec-5d17d99a7f2d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f01b77e5-3c5c-49fa-8d08-aebd30271787-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f12e8750-4e27-4511-84e2-64afeebf7239-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f2c51dc6-1f10-410b-9f99-ab8c2465badd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f4b99345-8935-4443-90a2-c306f578d342-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f5f46b34-9261-4746-8cda-bc4c9d4c3e8b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fa7a5cd7-a508-40ba-9338-52c45010cd86-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/feb46648-8830-441a-b209-0b21485f3737-container.json" beforeDir="false" />
-    </list>
+    <list default="true" id="8edb924b-f9d9-44b3-ad61-ec2bbeae86a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,38 +194,38 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596697075995" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592919229145" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1600677649284">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600677649284" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1600677649283">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600677649283" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1600677649283">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600677649283" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1600677649283">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600677649283" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600677649284">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600677649284" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600677649284">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600677649284" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600677649284">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600677649284" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600677649284">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600679129138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600677649284" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600679129138" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1592727513485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
