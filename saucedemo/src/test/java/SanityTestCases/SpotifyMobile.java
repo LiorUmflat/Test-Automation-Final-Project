@@ -18,7 +18,7 @@ public class SpotifyMobile extends CommonOps
     @Description("Test Description: login to Spotify and verify main page is displayed (by verifying settings button is displayed)")
     public void test01_login()
     {
-        mobileFlows.login("lior.hammer@gmail.com","300686979");
+        mobileFlows.loginDB();
         verifications.verifyElementIsDisplayed(mainPageSpotify.btn_settings);
     }
 

@@ -1,5 +1,6 @@
 package WorkFlows;
 
+import Extensions.dbAction;
 import Utilities.CommonOps;
 import io.qameta.allure.Step;
 //remove the following from notes when testing mobile app
@@ -7,16 +8,18 @@ import io.qameta.allure.Step;
 //import org.boon.Str;
 
 import java.security.cert.Extension;
+import java.util.List;
 
 public class mobileFlows extends CommonOps
 {
-    @Step("login to spotify")
-    public static void login(String username,String password)
+    @Step("login to spotify with credentials from DB")
+    public static void loginDB()
     {
+        List<String> cred = dbAction.getCredentials("SELECT UserName, Password FROM credentials WHERE id='3'");
         Extensions.uiActions.clickElement(initialPageSpotify.btn_entrance);
         Extensions.uiActions.clickElement(chooseAccountPopupSpotify.btn_noOfTheAboveOptions);
-        Extensions.uiActions.sendKeysToElement(loginPageSpotify.txt_username,username);
-        Extensions.uiActions.sendKeysToElement(loginPageSpotify.txt_password,password);
+        Extensions.uiActions.sendKeysToElement(loginPageSpotify.txt_username,cred.get(0));
+        Extensions.uiActions.sendKeysToElement(loginPageSpotify.txt_password,cred.get(1));
         Extensions.uiActions.clickElement(loginPageSpotify.btn_login);
     }
 

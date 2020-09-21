@@ -3,8 +3,7 @@ package WorkFlows;
 import Extensions.uiActions;
 import Utilities.CommonOps;
 import io.qameta.allure.Step;
-
-import java.util.ArrayList;
+import java.net.MalformedURLException;
 
 public class desktopFlows extends CommonOps
 {
@@ -36,7 +35,7 @@ public class desktopFlows extends CommonOps
     }
 
     @Step("add new note")
-    public static void addNewNote(String note)
+    public static void addNewNote(String note) throws MalformedURLException
     {
         System.out.println("before clicking + button:" + driver.getWindowHandle());
         uiActions.clickElement(mainPageSticky.btn_AddNote);

@@ -9,6 +9,8 @@ import io.qameta.allure.Description;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+import java.net.MalformedURLException;
+
 @Listeners(Utilities.listeners.class)
 public class StickyNotesDesktop extends CommonOps
 {
@@ -24,7 +26,7 @@ public class StickyNotesDesktop extends CommonOps
 
     @Test(description = "Test 02: add new note")
     @Description("Test Description: add new note and verify it had been added")
-    public void test02_addNewNote()
+    public void test02_addNewNote() throws MalformedURLException
     {
         desktopFlows.addNewNote("ליאור");
     }

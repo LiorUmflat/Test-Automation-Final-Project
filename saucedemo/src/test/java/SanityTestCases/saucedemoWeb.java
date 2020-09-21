@@ -17,7 +17,7 @@ public class saucedemoWeb extends CommonOps
     @Description("login to the site and verify the main page is display")
     public void test01_login()
     {
-        webFlows.login("standard_user","secret_sauce");
+        webFlows.loginDB();
         verifications.verifyElementText(mainPagesaucedemo.label_headline,"Products");
     }
 

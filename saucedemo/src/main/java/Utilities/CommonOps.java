@@ -176,6 +176,7 @@ public class CommonOps extends base
         else
             throw new RuntimeException("Invalid platform name");
         managePages.init();
+        managaeDB.initConnection(getData("dbUrl"),getData("dbUser"),getData("dbPassword"));
 
     }
 
@@ -199,6 +200,7 @@ public class CommonOps extends base
     @AfterClass
     public void EndSession()
     {
+        managaeDB.closeConnection();
         if(getData("PlatformName").equalsIgnoreCase("web"))
         {
             driver.quit();

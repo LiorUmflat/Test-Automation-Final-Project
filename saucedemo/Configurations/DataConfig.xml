@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Enviroment>
     <!--platform-->
-    <PlatformName>desktop</PlatformName>
+    <PlatformName>mobile</PlatformName>
 
     <!--desktop-->
     <AUMID>Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App</AUMID>
@@ -26,5 +26,10 @@
 
     <ImageRepo>./imageRepository/</ImageRepo>
     <timeout>5</timeout>
+
+    <!--DB-->
+    <dbUrl>jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10357044</dbUrl>
+    <dbUser>sql10357044</dbUser>
+    <dbPassword>ItCWI7mxnK</dbPassword>
 
 </Enviroment>

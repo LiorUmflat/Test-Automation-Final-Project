@@ -16,6 +16,10 @@ import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.comparison.ImageDiff;
 import ru.yandex.qatools.ashot.comparison.ImageDiffer;
 
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
 public class base
 {
     public static WebDriver driver;
@@ -64,4 +68,9 @@ public class base
     public static PageObjects.StickyNotes.SignInPage SignInPageSticky;
     public static PageObjects.StickyNotes.signOutPopUp signOutPopUpSticky;
     public static PageObjects.StickyNotes.notePopUp notePopUpSticky;
+
+    //db
+    public static Connection con;
+    public static Statement stms;
+    public static ResultSet rs;
 }
