@@ -22,6 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
 import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -151,25 +152,27 @@ public class CommonOps extends base
 
 
     @BeforeClass
-    public void StartSession()
+    @Parameters({"PlatformName"})
+    public void StartSession(String PlatformName)
     {
-        if(getData("PlatformName").equalsIgnoreCase("web"))
+        platform=PlatformName;
+        if(platform.equalsIgnoreCase("web"))
         {
             initBrowser();
         }
-        else if (getData("PlatformName").equalsIgnoreCase("mobile"))
+        else if (platform.equalsIgnoreCase("mobile"))
         {
             initMobile();
         }
-        else if (getData("PlatformName").equalsIgnoreCase("api"))
+        else if (platform.equalsIgnoreCase("api"))
         {
             initAPI();
         }
-        else if (getData("PlatformName").equalsIgnoreCase("electron"))
+        else if (platform.equalsIgnoreCase("electron"))
         {
             initElectron();
         }
-        else if(getData("PlatformName").equalsIgnoreCase("desktop"))
+        else if(platform.equalsIgnoreCase("desktop"))
         {
             initDesktop();
         }
@@ -183,15 +186,15 @@ public class CommonOps extends base
     @AfterMethod
     public void afterMethod()
     {
-        if(getData("PlatformName").equalsIgnoreCase("web"))
+        if(platform.equalsIgnoreCase("web"))
         {
             driver.get(getData("URLAfterLogin"));
         }
-        if(getData("PlatformName").equalsIgnoreCase("electron"))
+        if(platform.equalsIgnoreCase("electron"))
         {
             electronFlows.EmptyListOfTasks();
         }
-        if(getData("PlatformName").equalsIgnoreCase("desktop"))
+        if(platform.equalsIgnoreCase("desktop"))
         {
             desktopFlows.returnToMainPage();
         }
@@ -201,11 +204,11 @@ public class CommonOps extends base
     public void EndSession()
     {
         managaeDB.closeConnection();
-        if(getData("PlatformName").equalsIgnoreCase("web"))
+        if(platform.equalsIgnoreCase("web"))
         {
             driver.quit();
         }
-        else if (getData("PlatformName").equalsIgnoreCase("mobile"))
+        else if (platform.equalsIgnoreCase("mobile"))
         {
             androidMobileDriver.quit();
         }

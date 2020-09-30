@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "children" : [ {
+        "name" : "StartSession",
+        "uid" : "6496a8d002cf8889",
+        "parentUid" : "458c943fec3ae74a191558dc9ed325a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601448908174,
+          "stop" : 1601448908174,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "458c943fec3ae74a191558dc9ed325a8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

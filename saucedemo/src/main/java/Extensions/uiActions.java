@@ -14,7 +14,7 @@ public class uiActions extends CommonOps
     @Step("click on an element")
     public static void clickElement(WebElement elem)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron") && !getData("PlatformName").equalsIgnoreCase("desktop"))
+        if(!platform.equalsIgnoreCase("mobile") && !platform.equalsIgnoreCase("electron") && !platform.equalsIgnoreCase("desktop"))
         {
             wait.until(ExpectedConditions.elementToBeClickable(elem));
         }
@@ -24,7 +24,7 @@ public class uiActions extends CommonOps
     @Step("enter string to an element")
     public static void sendKeysToElement(WebElement elem,String keys)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron") && !getData("PlatformName").equalsIgnoreCase("desktop"))
+        if(!platform.equalsIgnoreCase("mobile") && !platform.equalsIgnoreCase("electron") && !platform.equalsIgnoreCase("desktop"))
         {
             wait.until(ExpectedConditions.visibilityOf(elem));
         }
@@ -34,7 +34,7 @@ public class uiActions extends CommonOps
     @Step("send Key to element")
     public static void sendKeyToElement(WebElement elem, Keys key)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile") && !getData("PlatformName").equalsIgnoreCase("electron"))
+        if(!platform.equalsIgnoreCase("mobile") && !platform.equalsIgnoreCase("electron"))
         {
             wait.until(ExpectedConditions.visibilityOf(elem));
         }
@@ -44,7 +44,7 @@ public class uiActions extends CommonOps
     @Step("update drop down box")
     public static void updateDropDownBox(WebElement elem, String selection)
     {
-        if(!getData("PlatformName").equalsIgnoreCase("mobile"))
+        if(!platform.equalsIgnoreCase("mobile"))
         {
             wait.until(ExpectedConditions.elementToBeClickable(elem));
         }

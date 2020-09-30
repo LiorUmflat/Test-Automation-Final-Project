@@ -1,0 +1,110 @@
+{
+  "uid" : "d49cf1e79f072272",
+  "name" : "login to the site",
+  "fullName" : "SanityTestCases.saucedemoWeb.test01_login",
+  "historyId" : "20bf9460d379ab534ae2b43e167a1498",
+  "time" : {
+    "start" : 1601449321641,
+    "stop" : 1601449325043,
+    "duration" : 3402
+  },
+  "description" : "login to the site and verify the main page is display",
+  "descriptionHtml" : "<p>login to the site and verify the main page is display</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1601449312417,
+      "stop" : 1601449321594,
+      "duration" : 9177
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1601449325105,
+      "stop" : 1601449325194,
+      "duration" : 89
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1601449338523,
+      "stop" : 1601449339172,
+      "duration" : 649
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01_login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "saucedemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "11852@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d49cf1e79f072272.json",
+  "parameterValues" : [ ]
+}

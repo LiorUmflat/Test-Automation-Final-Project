@@ -1,0 +1,694 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-F8C47SGU",
+    "children" : [ {
+      "name" : "7316@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "sort products from low to high",
+        "uid" : "1b40f22719fbdd94",
+        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601370000085,
+          "stop" : 1601370000756,
+          "duration" : 671
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "cb56592bd9a50361",
+        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601370012285,
+          "stop" : 1601370013150,
+          "duration" : 865
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "d463650677e319f2",
+        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601370001624,
+          "stop" : 1601370012135,
+          "duration" : 10511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "e9bb3a5c8013b75c",
+        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369995242,
+          "stop" : 1601369999856,
+          "duration" : 4614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "657fc4abd4d919fe",
+        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601370000865,
+          "stop" : 1601370001566,
+          "duration" : 701
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "9ed4cdd34f64a41a9328cdd47420624c"
+    }, {
+      "name" : "16412@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "sort products from low to high",
+        "uid" : "ba81b29f6a0d5b34",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449367012,
+          "stop" : 1601449367936,
+          "duration" : 924
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "39e87d5ac0794db8",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449368034,
+          "stop" : 1601449368720,
+          "duration" : 686
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "aa8bbe6c5156c21f",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449364623,
+          "stop" : 1601449366850,
+          "duration" : 2227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "9d05cd5278e7d595",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449374480,
+          "stop" : 1601449375074,
+          "duration" : 594
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verify robot image",
+        "uid" : "f493225d23769761",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449375199,
+          "stop" : 1601449376162,
+          "duration" : 963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "17cfa272b22cea17",
+        "parentUid" : "ed02ded0d85928058242b02de7a81579",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449368802,
+          "stop" : 1601449374382,
+          "duration" : 5580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed02ded0d85928058242b02de7a81579"
+    }, {
+      "name" : "1392@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "b793f2e1eac6798e",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756796,
+          "stop" : 1601447756796,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "9c68789de55263c7",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756796,
+          "stop" : 1601447756796,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "5d22686d18249f9b",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756749,
+          "stop" : 1601447756749,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "StartSession",
+        "uid" : "e1b093b241d82593",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601447756668,
+          "stop" : 1601447756671,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "ab60f130af076e0a",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756765,
+          "stop" : 1601447756765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "3a239ad9286f058c",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756780,
+          "stop" : 1601447756780,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "ba6e7607ef42716d",
+        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601447756780,
+          "stop" : 1601447756780,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a44bac15ffe0ec72dc56303ee8d97434"
+    }, {
+      "name" : "13696@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "login to the site",
+        "uid" : "1a68dd29930869b1",
+        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601448474873,
+          "stop" : 1601448482939,
+          "duration" : 8066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "dab0c463516ae6cf",
+        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601448483135,
+          "stop" : 1601448483945,
+          "duration" : 810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "e39eacf974442b93",
+        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601448495596,
+          "stop" : 1601448496249,
+          "duration" : 653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "dca49f1a5d3f1001",
+        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601448484026,
+          "stop" : 1601448484738,
+          "duration" : 712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "4db4a7f2cfe16d2",
+        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601448484823,
+          "stop" : 1601448495486,
+          "duration" : 10663
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "586cb70d97997db3f7811aa42c62802e"
+    }, {
+      "name" : "11852@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "add item and remove it from cart page",
+        "uid" : "224688e327a11976",
+        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449326988,
+          "stop" : 1601449332619,
+          "duration" : 5631
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "8cfddef07dbcabad",
+        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449325216,
+          "stop" : 1601449326068,
+          "duration" : 852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "d18c188de1f17184",
+        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449326158,
+          "stop" : 1601449326919,
+          "duration" : 761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "d49cf1e79f072272",
+        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449321641,
+          "stop" : 1601449325043,
+          "duration" : 3402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "d11af4944edd7474",
+        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449332720,
+          "stop" : 1601449333292,
+          "duration" : 572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4a394607ae5f47462c2a509aa5b6ff79"
+    }, {
+      "name" : "17672@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "add item to cart",
+        "uid" : "5ac27459d85c3b8d",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449438830,
+          "stop" : 1601449439573,
+          "duration" : 743
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "15a96401fbcd0ca3",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449450419,
+          "stop" : 1601449451938,
+          "duration" : 1519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "3363c8b6939af6",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449434634,
+          "stop" : 1601449437653,
+          "duration" : 3019
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "4a67658fe3845caf",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449439657,
+          "stop" : 1601449450323,
+          "duration" : 10666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "14185bc38c0f1fcc",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449437865,
+          "stop" : 1601449438733,
+          "duration" : 868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "verify robot image",
+        "uid" : "94b15ee33698a252",
+        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449452019,
+          "stop" : 1601449453084,
+          "duration" : 1065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "2bb239fb671f20ba98c44fb80bf53129"
+    }, {
+      "name" : "3164@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "sort products from low to high",
+        "uid" : "dc827675f3736e5b",
+        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369869049,
+          "stop" : 1601369869672,
+          "duration" : 623
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "de17d8a60bcc8299",
+        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369869773,
+          "stop" : 1601369870475,
+          "duration" : 702
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "6e73ce5e7e6fd978",
+        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369870543,
+          "stop" : 1601369881123,
+          "duration" : 10580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "69d7c8a6c76411bb",
+        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369865721,
+          "stop" : 1601369868833,
+          "duration" : 3112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "3851807b25ba10b1",
+        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601369881198,
+          "stop" : 1601369881806,
+          "duration" : 608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "3afc505ad3d9d54881bab6d3ec735f30"
+    }, {
+      "name" : "11292@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "login to the site",
+        "uid" : "db64fe16c97c9470",
+        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601447435518,
+          "stop" : 1601447437540,
+          "duration" : 2022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "14df31f73fd475da",
+        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601447450571,
+          "stop" : 1601447451237,
+          "duration" : 666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "882b5e53051c4cb4",
+        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601447438839,
+          "stop" : 1601447439702,
+          "duration" : 863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "33d3047bc60885ee",
+        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601447439783,
+          "stop" : 1601447450464,
+          "duration" : 10681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "8ece453b48171a63",
+        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601447437726,
+          "stop" : 1601447438746,
+          "duration" : 1020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "d56769a7bd222f1cc038aae154403804"
+    }, {
+      "name" : "1784@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "5b006a4da14244d9",
+        "parentUid" : "a8f1e33713bf7221adf00cc926c304b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449120785,
+          "stop" : 1601449121328,
+          "duration" : 543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8f1e33713bf7221adf00cc926c304b8"
+    }, {
+      "name" : "12512@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "9d2358142d5ba6db",
+        "parentUid" : "64e638966debeae2125c228fda4a3474",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449222051,
+          "stop" : 1601449222605,
+          "duration" : 554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64e638966debeae2125c228fda4a3474"
+    }, {
+      "name" : "8828@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "createScreenShot",
+        "uid" : "b0a95d1e6b704c7f",
+        "parentUid" : "d28c6aabb60909abb45859876b8c68b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601449090176,
+          "stop" : 1601449090751,
+          "duration" : 575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d28c6aabb60909abb45859876b8c68b6"
+    }, {
+      "name" : "12320@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "3057f6dfee4dc625",
+        "parentUid" : "82457d6eab95f8fabea1b50b5bb6a7b7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1601448908268,
+          "stop" : 1601448908268,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "StartSession",
+        "uid" : "6496a8d002cf8889",
+        "parentUid" : "82457d6eab95f8fabea1b50b5bb6a7b7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601448908174,
+          "stop" : 1601448908174,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82457d6eab95f8fabea1b50b5bb6a7b7"
+    } ],
+    "uid" : "2f7954c84c8eb1b1ad18bddf7e260680"
+  } ]
+}

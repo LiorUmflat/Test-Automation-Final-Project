@@ -28,6 +28,7 @@ public class base
     public static ImageDiff diff;
     public static ImageDiffer imageDiff = new ImageDiffer();
     public static SoftAssert softAssertion = new SoftAssert();
+    public static String platform;
 
     public static AndroidDriver<AndroidElement> androidMobileDriver;
     DesiredCapabilities dc = new DesiredCapabilities();

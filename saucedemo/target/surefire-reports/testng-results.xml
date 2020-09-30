@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29263" started-at="2020-09-30T10:03:44 IDT" finished-at="2020-09-30T10:04:13 IDT">
+    <groups>
+    </groups>
+    <test name="Web Tests" duration-ms="29263" started-at="2020-09-30T10:03:44 IDT" finished-at="2020-09-30T10:04:13 IDT">
+      <class name="SanityTestCases.saucedemoWeb">
+        <test-method status="PASS" signature="StartSession(java.lang.String)[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="StartSession" is-config="true" duration-ms="10016" started-at="2020-09-30T10:03:44 IDT" finished-at="2020-09-30T10:03:54 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession -->
+        <test-method status="PASS" signature="test01_login()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test01_login" duration-ms="3068" started-at="2020-09-30T10:03:54 IDT" description="login to the site" finished-at="2020-09-30T10:03:57 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="97" started-at="2020-09-30T10:03:57 IDT" finished-at="2020-09-30T10:03:57 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test02_sortProductsByLowToHigh()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test02_sortProductsByLowToHigh" duration-ms="870" started-at="2020-09-30T10:03:57 IDT" description="sort products from low to high" finished-at="2020-09-30T10:03:58 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_sortProductsByLowToHigh -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="90" started-at="2020-09-30T10:03:58 IDT" finished-at="2020-09-30T10:03:58 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test03_addItemToChart()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test03_addItemToChart" duration-ms="744" started-at="2020-09-30T10:03:58 IDT" description="add item to cart" finished-at="2020-09-30T10:03:59 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03_addItemToChart -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="74" started-at="2020-09-30T10:03:59 IDT" finished-at="2020-09-30T10:03:59 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test04_addItemAndRemoveItFromCartPage()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test04_addItemAndRemoveItFromCartPage" duration-ms="10668" started-at="2020-09-30T10:03:59 IDT" description="add item and remove it from cart page" finished-at="2020-09-30T10:04:10 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_addItemAndRemoveItFromCartPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="84" started-at="2020-09-30T10:04:10 IDT" finished-at="2020-09-30T10:04:10 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test05_logout()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test05_logout" duration-ms="1526" started-at="2020-09-30T10:04:10 IDT" description="logout of the site" finished-at="2020-09-30T10:04:11 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05_logout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="71" started-at="2020-09-30T10:04:11 IDT" finished-at="2020-09-30T10:04:12 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test06_verifyRobotImage()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="test06_verifyRobotImage" duration-ms="1071" started-at="2020-09-30T10:04:12 IDT" description="verify robot image" finished-at="2020-09-30T10:04:13 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06_verifyRobotImage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="afterMethod" is-config="true" duration-ms="75" started-at="2020-09-30T10:04:13 IDT" finished-at="2020-09-30T10:04:13 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="EndSession()[pri:0, instance:SanityTestCases.saucedemoWeb@58a55449]" name="EndSession" is-config="true" duration-ms="639" started-at="2020-09-30T10:04:13 IDT" finished-at="2020-09-30T10:04:13 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndSession -->
+      </class> <!-- SanityTestCases.saucedemoWeb -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

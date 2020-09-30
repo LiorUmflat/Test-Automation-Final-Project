@@ -1,0 +1,384 @@
+{
+  "82c4a0ade3a841e276a2b2d23d7371e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dc690e7610d6bf1",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/6dc690e7610d6bf1",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756796,
+        "stop" : 1601447756796,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7c6fda480904ba5c8939598cf1efbae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62c4dbc581eda634",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/62c4dbc581eda634",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756765,
+        "stop" : 1601447756765,
+        "duration" : 0
+      }
+    } ]
+  },
+  "703c14c903e25fa2a4b9f94e06e4ec9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95f86a6320e48d9c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/95f86a6320e48d9c",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756668,
+        "stop" : 1601447756671,
+        "duration" : 3
+      }
+    } ]
+  },
+  "a8edd9aeb47f1800a521728dd3533e6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5ee8ac35a213041",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/b5ee8ac35a213041",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756796,
+        "stop" : 1601447756796,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb4a93d1a9656f43c3649a09b49d4c9e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "81ba776a35cd1106",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/81ba776a35cd1106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601448495596,
+        "stop" : 1601448496249,
+        "duration" : 653
+      }
+    }, {
+      "uid" : "1181ceecff5c6f8",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/6/allure/#testresult/1181ceecff5c6f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601447450571,
+        "stop" : 1601447451237,
+        "duration" : 666
+      }
+    }, {
+      "uid" : "baaaf1206d6e9892",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/5/allure/#testresult/baaaf1206d6e9892",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601370012285,
+        "stop" : 1601370013150,
+        "duration" : 865
+      }
+    }, {
+      "uid" : "a1c06a893eddef8a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/4/allure/#testresult/a1c06a893eddef8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369881198,
+        "stop" : 1601369881806,
+        "duration" : 608
+      }
+    } ]
+  },
+  "b4bf736db8838a5dac10b34e239b3896" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2bb8fc3cfeb9fdbd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/2bb8fc3cfeb9fdbd",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756780,
+        "stop" : 1601447756780,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fd9f32acfdac229d3101013f8978ff8c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "f731086a0104956a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/f731086a0104956a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601448484823,
+        "stop" : 1601448495486,
+        "duration" : 10663
+      }
+    }, {
+      "uid" : "dcb6f8e1b64f72ab",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/6/allure/#testresult/dcb6f8e1b64f72ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601447439783,
+        "stop" : 1601447450464,
+        "duration" : 10681
+      }
+    }, {
+      "uid" : "224ac142bcfaee88",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/5/allure/#testresult/224ac142bcfaee88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601370001624,
+        "stop" : 1601370012135,
+        "duration" : 10511
+      }
+    }, {
+      "uid" : "9006561c0b69c5ed",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/4/allure/#testresult/9006561c0b69c5ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369870543,
+        "stop" : 1601369881123,
+        "duration" : 10580
+      }
+    } ]
+  },
+  "beb630470296c2609156d1781034bd72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "5176aed13b8601ec",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/5176aed13b8601ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601448474873,
+        "stop" : 1601448482939,
+        "duration" : 8066
+      }
+    }, {
+      "uid" : "81eb906c1c5b274e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/6/allure/#testresult/81eb906c1c5b274e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601447435518,
+        "stop" : 1601447437540,
+        "duration" : 2022
+      }
+    }, {
+      "uid" : "360e782b29cd4b1f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/5/allure/#testresult/360e782b29cd4b1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369995242,
+        "stop" : 1601369999856,
+        "duration" : 4614
+      }
+    }, {
+      "uid" : "c20cc06728b43920",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/4/allure/#testresult/c20cc06728b43920",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369865721,
+        "stop" : 1601369868833,
+        "duration" : 3112
+      }
+    } ]
+  },
+  "df607e329850f47e51f34241af04a253" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "519a5bdbca322f3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/519a5bdbca322f3",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756780,
+        "stop" : 1601447756780,
+        "duration" : 0
+      }
+    } ]
+  },
+  "20bf9460d379ab534ae2b43e167a1498" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d896b6a59b3b577",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/9d896b6a59b3b577",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1601447756749,
+        "stop" : 1601447756749,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d756a8080f37e244d49bb731b44d88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "bcf15fe571dbc301",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/bcf15fe571dbc301",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601448484026,
+        "stop" : 1601448484738,
+        "duration" : 712
+      }
+    }, {
+      "uid" : "fe2087ab57515934",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/6/allure/#testresult/fe2087ab57515934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601447438839,
+        "stop" : 1601447439702,
+        "duration" : 863
+      }
+    }, {
+      "uid" : "70b4de4406ff662e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/5/allure/#testresult/70b4de4406ff662e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601370000865,
+        "stop" : 1601370001566,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "1617b375ea1fa2fc",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/4/allure/#testresult/1617b375ea1fa2fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369869773,
+        "stop" : 1601369870475,
+        "duration" : 702
+      }
+    } ]
+  },
+  "96af9952d24ff8c95b3829412b119662" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "d0ee3418697f9b0a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/7/allure/#testresult/d0ee3418697f9b0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601448483135,
+        "stop" : 1601448483945,
+        "duration" : 810
+      }
+    }, {
+      "uid" : "f36ea684e786ca71",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/6/allure/#testresult/f36ea684e786ca71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601447437726,
+        "stop" : 1601447438746,
+        "duration" : 1020
+      }
+    }, {
+      "uid" : "ccab8c264e122fc3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/5/allure/#testresult/ccab8c264e122fc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601370000085,
+        "stop" : 1601370000756,
+        "duration" : 671
+      }
+    }, {
+      "uid" : "a45badbe0d0e7088",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/4/allure/#testresult/a45badbe0d0e7088",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601369869049,
+        "stop" : 1601369869672,
+        "duration" : 623
+      }
+    } ]
+  }
+}

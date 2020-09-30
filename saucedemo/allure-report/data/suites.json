@@ -1,0 +1,215 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "saucedemo",
+      "children" : [ {
+        "name" : "SanityTestCases.saucedemoWeb",
+        "children" : [ {
+          "name" : "StartSession",
+          "uid" : "6496a8d002cf8889",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "broken",
+          "time" : {
+            "start" : 1601448908174,
+            "stop" : 1601448908174,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "login to the site",
+          "uid" : "aa8bbe6c5156c21f",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449364623,
+            "stop" : 1601449366850,
+            "duration" : 2227
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "sort products from low to high",
+          "uid" : "ba81b29f6a0d5b34",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449367012,
+            "stop" : 1601449367936,
+            "duration" : 924
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "add item to cart",
+          "uid" : "39e87d5ac0794db8",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449368034,
+            "stop" : 1601449368720,
+            "duration" : 686
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "add item and remove it from cart page",
+          "uid" : "17cfa272b22cea17",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449368802,
+            "stop" : 1601449374382,
+            "duration" : 5580
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "logout of the site",
+          "uid" : "9d05cd5278e7d595",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449374480,
+            "stop" : 1601449375074,
+            "duration" : 594
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verify robot image",
+          "uid" : "f493225d23769761",
+          "parentUid" : "3737028590b532ea959130638dd32f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449375199,
+            "stop" : 1601449376162,
+            "duration" : 963
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3737028590b532ea959130638dd32f6e"
+      }, {
+        "name" : "Helpers.VisualTesting",
+        "children" : [ {
+          "name" : "createScreenShot",
+          "uid" : "b0a95d1e6b704c7f",
+          "parentUid" : "94ca144c6a17c4b627785329e37a8fa4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449090176,
+            "stop" : 1601449090751,
+            "duration" : 575
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "94ca144c6a17c4b627785329e37a8fa4"
+      } ],
+      "uid" : "cbd6e8362e862c7f705762e91b0c5c87"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Web Tests",
+      "children" : [ {
+        "name" : "SanityTestCases.saucedemoWeb",
+        "children" : [ {
+          "name" : "login to the site",
+          "uid" : "3363c8b6939af6",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449434634,
+            "stop" : 1601449437653,
+            "duration" : 3019
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "sort products from low to high",
+          "uid" : "14185bc38c0f1fcc",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449437865,
+            "stop" : 1601449438733,
+            "duration" : 868
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "add item to cart",
+          "uid" : "5ac27459d85c3b8d",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449438830,
+            "stop" : 1601449439573,
+            "duration" : 743
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "add item and remove it from cart page",
+          "uid" : "4a67658fe3845caf",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449439657,
+            "stop" : 1601449450323,
+            "duration" : 10666
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "logout of the site",
+          "uid" : "15a96401fbcd0ca3",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449450419,
+            "stop" : 1601449451938,
+            "duration" : 1519
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "verify robot image",
+          "uid" : "94b15ee33698a252",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601449452019,
+            "stop" : 1601449453084,
+            "duration" : 1065
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "542913937aa0ec2549f567e1c4c5fb25"
+      } ],
+      "uid" : "021ae6ebaf24613400055f41a8f6b406"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

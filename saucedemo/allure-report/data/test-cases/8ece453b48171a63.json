@@ -1,0 +1,163 @@
+{
+  "uid" : "8ece453b48171a63",
+  "name" : "sort products from low to high",
+  "fullName" : "SanityTestCases.saucedemoWeb.test02_sortProductsByLowToHigh",
+  "historyId" : "96af9952d24ff8c95b3829412b119662",
+  "time" : {
+    "start" : 1601447437726,
+    "stop" : 1601447438746,
+    "duration" : 1020
+  },
+  "description" : "sort the products from low to high and verify they are sorted correctly",
+  "descriptionHtml" : "<p>sort the products from low to high and verify they are sorted correctly</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1601447423933,
+      "stop" : 1601447435487,
+      "duration" : 11554
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "sort the products from low to high and verify they are sorted correctly",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "update drop down box",
+      "time" : {
+        "start" : 1601447437760,
+        "stop" : 1601447438128,
+        "duration" : 368
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: product_sort_container]"
+      }, {
+        "name" : "selection",
+        "value" : "Price (low to high)"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "verify items are sorted from low to high",
+      "time" : {
+        "start" : 1601447438154,
+        "stop" : 1601447438746,
+        "duration" : 592
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "items",
+        "value" : "[[[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price], [[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price], [[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price], [[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price], [[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price], [[ChromeDriver: chrome on WINDOWS (747cf9442a5234b4ce21bd252e86397b)] -> class name: inventory_item_price]]"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1601447438746,
+      "stop" : 1601447438834,
+      "duration" : 88
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1601447452515,
+      "stop" : 1601447453168,
+      "duration" : 653
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02_sortProductsByLowToHigh"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "11292@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ece453b48171a63.json",
+  "parameterValues" : [ "web" ]
+}
