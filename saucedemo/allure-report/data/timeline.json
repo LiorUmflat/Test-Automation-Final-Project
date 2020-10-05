@@ -4,690 +4,829 @@
   "children" : [ {
     "name" : "LAPTOP-F8C47SGU",
     "children" : [ {
-      "name" : "7316@LAPTOP-F8C47SGU.main(1)",
+      "name" : "11348@LAPTOP-F8C47SGU.main(1)",
       "children" : [ {
-        "name" : "sort products from low to high",
-        "uid" : "1b40f22719fbdd94",
-        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "name" : "logout from the app",
+        "uid" : "fb2aacb4821ce727",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
         "status" : "passed",
         "time" : {
-          "start" : 1601370000085,
-          "stop" : 1601370000756,
-          "duration" : 671
+          "start" : 1601795727654,
+          "stop" : 1601795759627,
+          "duration" : 31973
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "web" ]
+        "parameters" : [ "mobile" ]
       }, {
-        "name" : "logout of the site",
-        "uid" : "cb56592bd9a50361",
-        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "name" : "login to Spotify",
+        "uid" : "65f8f6b06558d930",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
         "status" : "passed",
         "time" : {
-          "start" : 1601370012285,
-          "stop" : 1601370013150,
-          "duration" : 865
+          "start" : 1601795655888,
+          "stop" : 1601795666593,
+          "duration" : 10705
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "web" ]
+        "parameters" : [ "mobile" ]
       }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "d463650677e319f2",
-        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "name" : "search song and play it",
+        "uid" : "594e9adae909310a",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
         "status" : "passed",
         "time" : {
-          "start" : 1601370001624,
-          "stop" : 1601370012135,
-          "duration" : 10511
+          "start" : 1601795666755,
+          "stop" : 1601795678028,
+          "duration" : 11273
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "web" ]
+        "parameters" : [ "mobile" ]
       }, {
-        "name" : "login to the site",
-        "uid" : "e9bb3a5c8013b75c",
-        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "name" : "remove songs from favorites in player section",
+        "uid" : "f97bceed9480af34",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
         "status" : "passed",
         "time" : {
-          "start" : 1601369995242,
-          "stop" : 1601369999856,
-          "duration" : 4614
+          "start" : 1601795707683,
+          "stop" : 1601795727649,
+          "duration" : 19966
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "web" ]
+        "parameters" : [ "mobile" ]
       }, {
-        "name" : "add item to cart",
-        "uid" : "657fc4abd4d919fe",
-        "parentUid" : "9ed4cdd34f64a41a9328cdd47420624c",
+        "name" : "add song to favorites from player section",
+        "uid" : "2c6bd4ec9c2914f1",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
         "status" : "passed",
         "time" : {
-          "start" : 1601370000865,
-          "stop" : 1601370001566,
-          "duration" : 701
+          "start" : 1601795688298,
+          "stop" : 1601795707677,
+          "duration" : 19379
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "web" ]
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "pause playing song",
+        "uid" : "f8bc8673a9a6f832",
+        "parentUid" : "bd82c89b6b3aa41eef04326d03bfad94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795678039,
+          "stop" : 1601795688291,
+          "duration" : 10252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
       } ],
-      "uid" : "9ed4cdd34f64a41a9328cdd47420624c"
+      "uid" : "bd82c89b6b3aa41eef04326d03bfad94"
     }, {
-      "name" : "16412@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "sort products from low to high",
-        "uid" : "ba81b29f6a0d5b34",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449367012,
-          "stop" : 1601449367936,
-          "duration" : 924
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "add item to cart",
-        "uid" : "39e87d5ac0794db8",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449368034,
-          "stop" : 1601449368720,
-          "duration" : 686
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "login to the site",
-        "uid" : "aa8bbe6c5156c21f",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449364623,
-          "stop" : 1601449366850,
-          "duration" : 2227
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "9d05cd5278e7d595",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449374480,
-          "stop" : 1601449375074,
-          "duration" : 594
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "verify robot image",
-        "uid" : "f493225d23769761",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449375199,
-          "stop" : 1601449376162,
-          "duration" : 963
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "17cfa272b22cea17",
-        "parentUid" : "ed02ded0d85928058242b02de7a81579",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449368802,
-          "stop" : 1601449374382,
-          "duration" : 5580
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "ed02ded0d85928058242b02de7a81579"
-    }, {
-      "name" : "1392@LAPTOP-F8C47SGU.main(1)",
+      "name" : "8548@LAPTOP-F8C47SGU.main(1)",
       "children" : [ {
         "name" : "verify robot image",
-        "uid" : "b793f2e1eac6798e",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
+        "uid" : "36f98dcee760fcb1",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
+        "status" : "failed",
         "time" : {
-          "start" : 1601447756796,
-          "stop" : 1601447756796,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "9c68789de55263c7",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601447756796,
-          "stop" : 1601447756796,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "login to the site",
-        "uid" : "5d22686d18249f9b",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601447756749,
-          "stop" : 1601447756749,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "StartSession",
-        "uid" : "e1b093b241d82593",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "broken",
-        "time" : {
-          "start" : 1601447756668,
-          "stop" : 1601447756671,
-          "duration" : 3
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "sort products from low to high",
-        "uid" : "ab60f130af076e0a",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601447756765,
-          "stop" : 1601447756765,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "add item to cart",
-        "uid" : "3a239ad9286f058c",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601447756780,
-          "stop" : 1601447756780,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "ba6e7607ef42716d",
-        "parentUid" : "a44bac15ffe0ec72dc56303ee8d97434",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601447756780,
-          "stop" : 1601447756780,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "a44bac15ffe0ec72dc56303ee8d97434"
-    }, {
-      "name" : "13696@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "login to the site",
-        "uid" : "1a68dd29930869b1",
-        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601448474873,
-          "stop" : 1601448482939,
-          "duration" : 8066
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "sort products from low to high",
-        "uid" : "dab0c463516ae6cf",
-        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601448483135,
-          "stop" : 1601448483945,
-          "duration" : 810
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "e39eacf974442b93",
-        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601448495596,
-          "stop" : 1601448496249,
-          "duration" : 653
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "add item to cart",
-        "uid" : "dca49f1a5d3f1001",
-        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601448484026,
-          "stop" : 1601448484738,
-          "duration" : 712
+          "start" : 1601794582000,
+          "stop" : 1601794584381,
+          "duration" : 2381
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "add item and remove it from cart page",
-        "uid" : "4db4a7f2cfe16d2",
-        "parentUid" : "586cb70d97997db3f7811aa42c62802e",
+        "uid" : "1dda0763387863ec",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
         "status" : "passed",
         "time" : {
-          "start" : 1601448484823,
-          "stop" : 1601448495486,
-          "duration" : 10663
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      } ],
-      "uid" : "586cb70d97997db3f7811aa42c62802e"
-    }, {
-      "name" : "11852@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "add item and remove it from cart page",
-        "uid" : "224688e327a11976",
-        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449326988,
-          "stop" : 1601449332619,
-          "duration" : 5631
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "sort products from low to high",
-        "uid" : "8cfddef07dbcabad",
-        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449325216,
-          "stop" : 1601449326068,
-          "duration" : 852
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "add item to cart",
-        "uid" : "d18c188de1f17184",
-        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449326158,
-          "stop" : 1601449326919,
-          "duration" : 761
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "login to the site",
-        "uid" : "d49cf1e79f072272",
-        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449321641,
-          "stop" : 1601449325043,
-          "duration" : 3402
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "d11af4944edd7474",
-        "parentUid" : "4a394607ae5f47462c2a509aa5b6ff79",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449332720,
-          "stop" : 1601449333292,
-          "duration" : 572
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "4a394607ae5f47462c2a509aa5b6ff79"
-    }, {
-      "name" : "17672@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "add item to cart",
-        "uid" : "5ac27459d85c3b8d",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449438830,
-          "stop" : 1601449439573,
-          "duration" : 743
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "15a96401fbcd0ca3",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449450419,
-          "stop" : 1601449451938,
-          "duration" : 1519
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "login to the site",
-        "uid" : "3363c8b6939af6",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449434634,
-          "stop" : 1601449437653,
-          "duration" : 3019
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "4a67658fe3845caf",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449439657,
-          "stop" : 1601449450323,
-          "duration" : 10666
+          "start" : 1601794568395,
+          "stop" : 1601794579485,
+          "duration" : 11090
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "sort products from low to high",
-        "uid" : "14185bc38c0f1fcc",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
+        "uid" : "8676ae5d633e40e2",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
         "status" : "passed",
         "time" : {
-          "start" : 1601449437865,
-          "stop" : 1601449438733,
-          "duration" : 868
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "verify robot image",
-        "uid" : "94b15ee33698a252",
-        "parentUid" : "2bb239fb671f20ba98c44fb80bf53129",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449452019,
-          "stop" : 1601449453084,
-          "duration" : 1065
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      } ],
-      "uid" : "2bb239fb671f20ba98c44fb80bf53129"
-    }, {
-      "name" : "3164@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "sort products from low to high",
-        "uid" : "dc827675f3736e5b",
-        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601369869049,
-          "stop" : 1601369869672,
-          "duration" : 623
+          "start" : 1601794564739,
+          "stop" : 1601794565979,
+          "duration" : 1240
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "add item to cart",
-        "uid" : "de17d8a60bcc8299",
-        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "uid" : "4cc6b6e4244fd09a",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
         "status" : "passed",
         "time" : {
-          "start" : 1601369869773,
-          "stop" : 1601369870475,
-          "duration" : 702
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "6e73ce5e7e6fd978",
-        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601369870543,
-          "stop" : 1601369881123,
-          "duration" : 10580
+          "start" : 1601794566150,
+          "stop" : 1601794568202,
+          "duration" : 2052
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "login to the site",
-        "uid" : "69d7c8a6c76411bb",
-        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "uid" : "f85fc0465981bd7e",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
         "status" : "passed",
         "time" : {
-          "start" : 1601369865721,
-          "stop" : 1601369868833,
-          "duration" : 3112
+          "start" : 1601794540111,
+          "stop" : 1601794564106,
+          "duration" : 23995
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "logout of the site",
-        "uid" : "3851807b25ba10b1",
-        "parentUid" : "3afc505ad3d9d54881bab6d3ec735f30",
+        "uid" : "983c2bc088e98719",
+        "parentUid" : "091ffd95da6bd3237d290961279d66a1",
         "status" : "passed",
         "time" : {
-          "start" : 1601369881198,
-          "stop" : 1601369881806,
-          "duration" : 608
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      } ],
-      "uid" : "3afc505ad3d9d54881bab6d3ec735f30"
-    }, {
-      "name" : "11292@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "login to the site",
-        "uid" : "db64fe16c97c9470",
-        "parentUid" : "d56769a7bd222f1cc038aae154403804",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601447435518,
-          "stop" : 1601447437540,
+          "start" : 1601794579731,
+          "stop" : 1601794581753,
           "duration" : 2022
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
-      }, {
-        "name" : "logout of the site",
-        "uid" : "14df31f73fd475da",
-        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+      } ],
+      "uid" : "091ffd95da6bd3237d290961279d66a1"
+    }, {
+      "name" : "25096@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "4791e5bc239128c5",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
         "status" : "passed",
         "time" : {
-          "start" : 1601447450571,
-          "stop" : 1601447451237,
-          "duration" : 666
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "add item to cart",
-        "uid" : "882b5e53051c4cb4",
-        "parentUid" : "d56769a7bd222f1cc038aae154403804",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601447438839,
-          "stop" : 1601447439702,
-          "duration" : 863
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "web" ]
-      }, {
-        "name" : "add item and remove it from cart page",
-        "uid" : "33d3047bc60885ee",
-        "parentUid" : "d56769a7bd222f1cc038aae154403804",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601447439783,
-          "stop" : 1601447450464,
-          "duration" : 10681
+          "start" : 1601795308162,
+          "stop" : 1601795309172,
+          "duration" : 1010
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       }, {
         "name" : "sort products from low to high",
-        "uid" : "8ece453b48171a63",
-        "parentUid" : "d56769a7bd222f1cc038aae154403804",
+        "uid" : "17f7232fa3da1ed",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
         "status" : "passed",
         "time" : {
-          "start" : 1601447437726,
-          "stop" : 1601447438746,
-          "duration" : 1020
+          "start" : 1601795293390,
+          "stop" : 1601795294040,
+          "duration" : 650
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "f19c3a411db1d3d6",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795306358,
+          "stop" : 1601795308045,
+          "duration" : 1687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "1f8dfdd92dd5b43f",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795294157,
+          "stop" : 1601795295583,
+          "duration" : 1426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "13884f3275f5d860",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795295671,
+          "stop" : 1601795306227,
+          "duration" : 10556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "d41b92e2a22edf2c",
+        "parentUid" : "b2082470ca033ba53759892d67598e1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795280067,
+          "stop" : 1601795293183,
+          "duration" : 13116
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "web" ]
       } ],
-      "uid" : "d56769a7bd222f1cc038aae154403804"
+      "uid" : "b2082470ca033ba53759892d67598e1b"
     }, {
-      "name" : "1784@LAPTOP-F8C47SGU.main(1)",
+      "name" : "23332@LAPTOP-F8C47SGU.main(1)",
       "children" : [ {
-        "name" : "verify robot image",
-        "uid" : "5b006a4da14244d9",
-        "parentUid" : "a8f1e33713bf7221adf00cc926c304b8",
+        "name" : "Test 05: delete one task from the list",
+        "uid" : "1c4349f3a4e8731d",
+        "parentUid" : "c8f51904e1f2a8f20179127d844f8e91",
         "status" : "passed",
         "time" : {
-          "start" : 1601449120785,
-          "stop" : 1601449121328,
-          "duration" : 543
+          "start" : 1601793636223,
+          "stop" : 1601793637806,
+          "duration" : 1583
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "a8f1e33713bf7221adf00cc926c304b8"
-    }, {
-      "name" : "12512@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "verify robot image",
-        "uid" : "9d2358142d5ba6db",
-        "parentUid" : "64e638966debeae2125c228fda4a3474",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449222051,
-          "stop" : 1601449222605,
-          "duration" : 554
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "64e638966debeae2125c228fda4a3474"
-    }, {
-      "name" : "8828@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "createScreenShot",
-        "uid" : "b0a95d1e6b704c7f",
-        "parentUid" : "d28c6aabb60909abb45859876b8c68b6",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601449090176,
-          "stop" : 1601449090751,
-          "duration" : 575
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "d28c6aabb60909abb45859876b8c68b6"
-    }, {
-      "name" : "12320@LAPTOP-F8C47SGU.main(1)",
-      "children" : [ {
-        "name" : "verify robot image",
-        "uid" : "3057f6dfee4dc625",
-        "parentUid" : "82457d6eab95f8fabea1b50b5bb6a7b7",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1601448908268,
-          "stop" : 1601448908268,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
+        "parameters" : [ "electron" ]
       }, {
-        "name" : "StartSession",
-        "uid" : "6496a8d002cf8889",
-        "parentUid" : "82457d6eab95f8fabea1b50b5bb6a7b7",
-        "status" : "broken",
+        "name" : "Test 04: mark all task as completed",
+        "uid" : "87f17507f7b32b09",
+        "parentUid" : "c8f51904e1f2a8f20179127d844f8e91",
+        "status" : "passed",
         "time" : {
-          "start" : 1601448908174,
-          "stop" : 1601448908174,
-          "duration" : 0
+          "start" : 1601793634498,
+          "stop" : 1601793635893,
+          "duration" : 1395
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ ]
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 02: add 2 new tasks",
+        "uid" : "8d5eba9a22f4e35e",
+        "parentUid" : "c8f51904e1f2a8f20179127d844f8e91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793631597,
+          "stop" : 1601793632306,
+          "duration" : 709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 01: add new task",
+        "uid" : "7bcf239a0a8193",
+        "parentUid" : "c8f51904e1f2a8f20179127d844f8e91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793630520,
+          "stop" : 1601793631136,
+          "duration" : 616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 03: mark task as completed",
+        "uid" : "69632c5cfbc0e5d9",
+        "parentUid" : "c8f51904e1f2a8f20179127d844f8e91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793632555,
+          "stop" : 1601793634078,
+          "duration" : 1523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
       } ],
-      "uid" : "82457d6eab95f8fabea1b50b5bb6a7b7"
+      "uid" : "c8f51904e1f2a8f20179127d844f8e91"
+    }, {
+      "name" : "21876@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "update the last added student in the server",
+        "uid" : "5fabc82d782b0b0c",
+        "parentUid" : "4efe19b6ae43ff96bde7b9a378ae886a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793583020,
+          "stop" : 1601793583328,
+          "duration" : 308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "delete the last added student from the server",
+        "uid" : "3e1e4e80993c280e",
+        "parentUid" : "4efe19b6ae43ff96bde7b9a378ae886a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793583344,
+          "stop" : 1601793583448,
+          "duration" : 104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Get The Students from the server",
+        "uid" : "c083bf130e1d9e36",
+        "parentUid" : "4efe19b6ae43ff96bde7b9a378ae886a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793578497,
+          "stop" : 1601793582326,
+          "duration" : 3829
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Add new student to the server",
+        "uid" : "e214c86012f90c4d",
+        "parentUid" : "4efe19b6ae43ff96bde7b9a378ae886a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793582527,
+          "stop" : 1601793583005,
+          "duration" : 478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "4efe19b6ae43ff96bde7b9a378ae886a"
+    }, {
+      "name" : "9424@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "f4ad1910601df3eb",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795481316,
+          "stop" : 1601795482377,
+          "duration" : 1061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "a7d175404249ebe5",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795469224,
+          "stop" : 1601795469838,
+          "duration" : 614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "4a32c8dcdfce5713",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795480579,
+          "stop" : 1601795481197,
+          "duration" : 618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "d459cdb8c41d4231",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795469937,
+          "stop" : 1601795480471,
+          "duration" : 10534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "f0be997c1c5c15aa",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795463704,
+          "stop" : 1601795467899,
+          "duration" : 4195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "46470fd4036203cc",
+        "parentUid" : "f793e7039e462deb2859c4b699825d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795468214,
+          "stop" : 1601795469040,
+          "duration" : 826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "f793e7039e462deb2859c4b699825d16"
+    }, {
+      "name" : "5984@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "Test 03: mark task as completed",
+        "uid" : "9f0337189fc6eae7",
+        "parentUid" : "21f544934e7aa1b9930aaf313b22e2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795934719,
+          "stop" : 1601795935864,
+          "duration" : 1145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 01: add new task",
+        "uid" : "49a7fe2b03ca4ae",
+        "parentUid" : "21f544934e7aa1b9930aaf313b22e2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795933093,
+          "stop" : 1601795933478,
+          "duration" : 385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 04: mark all task as completed",
+        "uid" : "4ac529592ec39267",
+        "parentUid" : "21f544934e7aa1b9930aaf313b22e2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795936120,
+          "stop" : 1601795937301,
+          "duration" : 1181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 05: delete one task from the list",
+        "uid" : "da3fe8a5c97ebbb5",
+        "parentUid" : "21f544934e7aa1b9930aaf313b22e2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795937594,
+          "stop" : 1601795938796,
+          "duration" : 1202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "Test 02: add 2 new tasks",
+        "uid" : "8a5ff1a6340f641c",
+        "parentUid" : "21f544934e7aa1b9930aaf313b22e2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795933881,
+          "stop" : 1601795934590,
+          "duration" : 709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "21f544934e7aa1b9930aaf313b22e2c6"
+    }, {
+      "name" : "19740@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "verify robot image",
+        "uid" : "7245e670900323c3",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601793936261,
+          "stop" : 1601793938224,
+          "duration" : 1963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item to cart",
+        "uid" : "bcee9a91a9e9f63f",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793923201,
+          "stop" : 1601793924212,
+          "duration" : 1011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "add item and remove it from cart page",
+        "uid" : "79c517cf68078f19",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793924331,
+          "stop" : 1601793935095,
+          "duration" : 10764
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "logout of the site",
+        "uid" : "1381d0f32de19dff",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793935256,
+          "stop" : 1601793936065,
+          "duration" : 809
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "login to the site",
+        "uid" : "28d956b6ef997fea",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793918978,
+          "stop" : 1601793921640,
+          "duration" : 2662
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "sort products from low to high",
+        "uid" : "14b12f39f5529520",
+        "parentUid" : "ec40f289b3c04f835e2d39763219e9fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793921993,
+          "stop" : 1601793923105,
+          "duration" : 1112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "ec40f289b3c04f835e2d39763219e9fd"
+    }, {
+      "name" : "22712@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "logout from the app",
+        "uid" : "cc4e2e4e63e47bd5",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793787075,
+          "stop" : 1601793820556,
+          "duration" : 33481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "pause playing song",
+        "uid" : "eb5a27280976590a",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793741123,
+          "stop" : 1601793750843,
+          "duration" : 9720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "search song and play it",
+        "uid" : "1312776006a467e0",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793730069,
+          "stop" : 1601793741107,
+          "duration" : 11038
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "login to Spotify",
+        "uid" : "39e4f407cd4fa645",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793718377,
+          "stop" : 1601793729782,
+          "duration" : 11405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "add song to favorites from player section",
+        "uid" : "5b7ea933a0fffbbf",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793750855,
+          "stop" : 1601793768604,
+          "duration" : 17749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "remove songs from favorites in player section",
+        "uid" : "92b147e68807f1c1",
+        "parentUid" : "fa1767c63c701279f2f2027d50f5f734",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793768612,
+          "stop" : 1601793787067,
+          "duration" : 18455
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "fa1767c63c701279f2f2027d50f5f734"
+    }, {
+      "name" : "15812@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "delete the last added student from the server",
+        "uid" : "b383d8f3bce8f0e",
+        "parentUid" : "bfacf84102ef55e168bf7b21023d6c6b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795854049,
+          "stop" : 1601795854122,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Get The Students from the server",
+        "uid" : "7873ee8234534eac",
+        "parentUid" : "bfacf84102ef55e168bf7b21023d6c6b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795850800,
+          "stop" : 1601795853412,
+          "duration" : 2612
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Add new student to the server",
+        "uid" : "b47a59470d2ac404",
+        "parentUid" : "bfacf84102ef55e168bf7b21023d6c6b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795853521,
+          "stop" : 1601795853847,
+          "duration" : 326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "update the last added student in the server",
+        "uid" : "9775aa9ba79df893",
+        "parentUid" : "bfacf84102ef55e168bf7b21023d6c6b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795853857,
+          "stop" : 1601795854038,
+          "duration" : 181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "bfacf84102ef55e168bf7b21023d6c6b"
+    }, {
+      "name" : "18100@LAPTOP-F8C47SGU.main(1)",
+      "children" : [ {
+        "name" : "search song and play it",
+        "uid" : "3700e081a0b81695",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794747355,
+          "stop" : 1601794758787,
+          "duration" : 11432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "pause playing song",
+        "uid" : "ed0bde0784f53253",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794758805,
+          "stop" : 1601794768296,
+          "duration" : 9491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "add song to favorites from player section",
+        "uid" : "d0275183f3fb08b6",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794768306,
+          "stop" : 1601794786185,
+          "duration" : 17879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "login to Spotify",
+        "uid" : "e3940b1266c0750f",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794735174,
+          "stop" : 1601794746982,
+          "duration" : 11808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "logout from the app",
+        "uid" : "97baa4eb272f563b",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794804266,
+          "stop" : 1601794837073,
+          "duration" : 32807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "remove songs from favorites in player section",
+        "uid" : "250886eaecd21124",
+        "parentUid" : "87dd65a4e46d56147b1120a02ee0492b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601794786195,
+          "stop" : 1601794804226,
+          "duration" : 18031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "87dd65a4e46d56147b1120a02ee0492b"
     } ],
     "uid" : "2f7954c84c8eb1b1ad18bddf7e260680"
   } ]

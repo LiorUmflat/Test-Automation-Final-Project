@@ -1,1 +1,0 @@
-{"uuid":"ca67d9f5-e6d1-4b28-a13a-bc030948c305","name":"SanityTestCases.saucedemoWeb","children":["1b4701a0-cf3d-4646-b452-43d7284ea509"],"befores":[],"afters":[{"name":"EndSession","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1601448908284,"stop":1601448908284}],"links":[],"start":1601448908112,"stop":1601448908284}

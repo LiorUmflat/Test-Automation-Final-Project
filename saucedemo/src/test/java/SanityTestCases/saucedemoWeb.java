@@ -35,6 +35,7 @@ public class saucedemoWeb extends CommonOps
     {
         webFlows.addOrRemoveItemFromCart(mainPagesaucedemo.btn_addToCart.get(0));
         verifications.verifyElementText(mainPagesaucedemo.img_cartBadge,"1");
+        softAssertion.assertAll();
         webFlows.moveToCartPage();
         verifications.verifySizeOfWebElementList(cartPagesaucedemo.items,"1");
         //remove the item before the test ends
@@ -48,6 +49,7 @@ public class saucedemoWeb extends CommonOps
         webFlows.AddAndRemoveFirstItemFromCart();
         //verify the cart is empty
         verifications.verifySizeOfWebElementList(cartPagesaucedemo.items,"0");
+        softAssertion.assertAll();
     }
 
     @Test(description = "logout of the site")

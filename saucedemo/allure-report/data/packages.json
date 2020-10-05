@@ -2,194 +2,297 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "SanityTestCases.saucedemoWeb",
+    "name" : "SanityTestCases",
     "children" : [ {
-      "name" : "StartSession",
-      "uid" : "6496a8d002cf8889",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "broken",
-      "time" : {
-        "start" : 1601448908174,
-        "stop" : 1601448908174,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "saucedemoWeb",
+      "children" : [ {
+        "name" : "test01_login",
+        "uid" : "f0be997c1c5c15aa",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795463704,
+          "stop" : 1601795467899,
+          "duration" : 4195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test02_sortProductsByLowToHigh",
+        "uid" : "46470fd4036203cc",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795468214,
+          "stop" : 1601795469040,
+          "duration" : 826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test03_addItemToChart",
+        "uid" : "a7d175404249ebe5",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795469224,
+          "stop" : 1601795469838,
+          "duration" : 614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test04_addItemAndRemoveItFromCartPage",
+        "uid" : "d459cdb8c41d4231",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795469937,
+          "stop" : 1601795480471,
+          "duration" : 10534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test05_logout",
+        "uid" : "4a32c8dcdfce5713",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795480579,
+          "stop" : 1601795481197,
+          "duration" : 618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test06_verifyRobotImage",
+        "uid" : "f4ad1910601df3eb",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795481316,
+          "stop" : 1601795482377,
+          "duration" : 1061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "733f6735e9924d3878b004c52c44e027"
     }, {
-      "name" : "test01_login",
-      "uid" : "aa8bbe6c5156c21f",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449364623,
-        "stop" : 1601449366850,
-        "duration" : 2227
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "SpotifyMobile",
+      "children" : [ {
+        "name" : "test01_login",
+        "uid" : "65f8f6b06558d930",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795655888,
+          "stop" : 1601795666593,
+          "duration" : 10705
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test02_searchSongAndPlayIt",
+        "uid" : "594e9adae909310a",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795666755,
+          "stop" : 1601795678028,
+          "duration" : 11273
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test03_pausePlayingSong",
+        "uid" : "f8bc8673a9a6f832",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795678039,
+          "stop" : 1601795688291,
+          "duration" : 10252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test04_addSongToFavoritesFromPlayer",
+        "uid" : "2c6bd4ec9c2914f1",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795688298,
+          "stop" : 1601795707677,
+          "duration" : 19379
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test05_removeSongsFromFavorites",
+        "uid" : "f97bceed9480af34",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795707683,
+          "stop" : 1601795727649,
+          "duration" : 19966
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test06_logout",
+        "uid" : "fb2aacb4821ce727",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795727654,
+          "stop" : 1601795759627,
+          "duration" : 31973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "7b1b59ce86ce9b9757ea0207c74c3215"
     }, {
-      "name" : "test02_sortProductsByLowToHigh",
-      "uid" : "ba81b29f6a0d5b34",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449367012,
-        "stop" : 1601449367936,
-        "duration" : 924
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "StudentsAPI",
+      "children" : [ {
+        "name" : "test_01_GetStudents",
+        "uid" : "7873ee8234534eac",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795850800,
+          "stop" : 1601795853412,
+          "duration" : 2612
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_02_AddStudent",
+        "uid" : "b47a59470d2ac404",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795853521,
+          "stop" : 1601795853847,
+          "duration" : 326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_03_updateStudent",
+        "uid" : "9775aa9ba79df893",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795853857,
+          "stop" : 1601795854038,
+          "duration" : 181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_04_deleteStudent",
+        "uid" : "b383d8f3bce8f0e",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795854049,
+          "stop" : 1601795854122,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "e6957e40758b1512e3c5baa620e491bb"
     }, {
-      "name" : "test03_addItemToChart",
-      "uid" : "39e87d5ac0794db8",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449368034,
-        "stop" : 1601449368720,
-        "duration" : 686
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "test04_addItemAndRemoveItFromCartPage",
-      "uid" : "17cfa272b22cea17",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449368802,
-        "stop" : 1601449374382,
-        "duration" : 5580
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "test05_logout",
-      "uid" : "9d05cd5278e7d595",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449374480,
-        "stop" : 1601449375074,
-        "duration" : 594
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "test06_verifyRobotImage",
-      "uid" : "f493225d23769761",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449375199,
-        "stop" : 1601449376162,
-        "duration" : 963
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "test01_login",
-      "uid" : "3363c8b6939af6",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449434634,
-        "stop" : 1601449437653,
-        "duration" : 3019
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
-    }, {
-      "name" : "test02_sortProductsByLowToHigh",
-      "uid" : "14185bc38c0f1fcc",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449437865,
-        "stop" : 1601449438733,
-        "duration" : 868
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
-    }, {
-      "name" : "test03_addItemToChart",
-      "uid" : "5ac27459d85c3b8d",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449438830,
-        "stop" : 1601449439573,
-        "duration" : 743
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
-    }, {
-      "name" : "test04_addItemAndRemoveItFromCartPage",
-      "uid" : "4a67658fe3845caf",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449439657,
-        "stop" : 1601449450323,
-        "duration" : 10666
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
-    }, {
-      "name" : "test05_logout",
-      "uid" : "15a96401fbcd0ca3",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449450419,
-        "stop" : 1601449451938,
-        "duration" : 1519
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
-    }, {
-      "name" : "test06_verifyRobotImage",
-      "uid" : "94b15ee33698a252",
-      "parentUid" : "733f6735e9924d3878b004c52c44e027",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449452019,
-        "stop" : 1601449453084,
-        "duration" : 1065
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "web" ]
+      "name" : "TodolistElectron",
+      "children" : [ {
+        "name" : "test01_AddNewTask",
+        "uid" : "49a7fe2b03ca4ae",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795933093,
+          "stop" : 1601795933478,
+          "duration" : 385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test02_AddNewTask",
+        "uid" : "8a5ff1a6340f641c",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795933881,
+          "stop" : 1601795934590,
+          "duration" : 709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test03_markTaskAsCompleted",
+        "uid" : "9f0337189fc6eae7",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795934719,
+          "stop" : 1601795935864,
+          "duration" : 1145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test04_markAllTaskAsCompleted",
+        "uid" : "4ac529592ec39267",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795936120,
+          "stop" : 1601795937301,
+          "duration" : 1181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test05_deleteTaskFromTheList",
+        "uid" : "da3fe8a5c97ebbb5",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795937594,
+          "stop" : 1601795938796,
+          "duration" : 1202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "64f67903fedf9dc4e6e743b9715e2b78"
     } ],
-    "uid" : "SanityTestCases.saucedemoWeb"
-  }, {
-    "name" : "Helpers.VisualTesting",
-    "children" : [ {
-      "name" : "createScreenShot",
-      "uid" : "b0a95d1e6b704c7f",
-      "parentUid" : "81d9db0b30cd337881d6c0049b9d27b1",
-      "status" : "passed",
-      "time" : {
-        "start" : 1601449090176,
-        "stop" : 1601449090751,
-        "duration" : 575
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "Helpers.VisualTesting"
+    "uid" : "cd3460e1b89d9d9aeb486f88cc6b4dc0"
   } ]
 }

@@ -1,0 +1,265 @@
+{
+  "uid" : "79c517cf68078f19",
+  "name" : "add item and remove it from cart page",
+  "fullName" : "SanityTestCases.saucedemoWeb.test04_addItemAndRemoveItFromCartPage",
+  "historyId" : "fd9f32acfdac229d3101013f8978ff8c",
+  "time" : {
+    "start" : 1601793924331,
+    "stop" : 1601793935095,
+    "duration" : 10764
+  },
+  "description" : "add the first item to cart and remove it from cart page",
+  "descriptionHtml" : "<p>add the first item to cart and remove it from cart page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1601793904367,
+      "stop" : 1601793918877,
+      "duration" : 14510
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "add the first item to cart and remove it from cart page",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "add the first item to the cart and remove it from cart page",
+      "time" : {
+        "start" : 1601793924332,
+        "stop" : 1601793925006,
+        "duration" : 674
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "add or remove item to/from cart",
+        "time" : {
+          "start" : 1601793924364,
+          "stop" : 1601793924543,
+          "duration" : 179
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "click on an element",
+          "time" : {
+            "start" : 1601793924364,
+            "stop" : 1601793924543,
+            "duration" : 179
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "elem",
+            "value" : "[[ChromeDriver: chrome on XP (7a0107e9f6f464e7ad31074b6b0ef91d)] -> class name: btn_primary]"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "item",
+          "value" : "[[ChromeDriver: chrome on XP (7a0107e9f6f464e7ad31074b6b0ef91d)] -> class name: btn_primary]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "move to cart page",
+        "time" : {
+          "start" : 1601793924543,
+          "stop" : 1601793924845,
+          "duration" : 302
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "click on an element",
+          "time" : {
+            "start" : 1601793924575,
+            "stop" : 1601793924845,
+            "duration" : 270
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "elem",
+            "value" : "[[ChromeDriver: chrome on XP (7a0107e9f6f464e7ad31074b6b0ef91d)] -> class name: fa-shopping-cart]"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "add or remove item to/from cart",
+        "time" : {
+          "start" : 1601793924874,
+          "stop" : 1601793925006,
+          "duration" : 132
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "click on an element",
+          "time" : {
+            "start" : 1601793924874,
+            "stop" : 1601793925006,
+            "duration" : 132
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "elem",
+            "value" : "[[ChromeDriver: chrome on XP (7a0107e9f6f464e7ad31074b6b0ef91d)] -> class name: cart_button]"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "item",
+          "value" : "[[ChromeDriver: chrome on XP (7a0107e9f6f464e7ad31074b6b0ef91d)] -> class name: cart_button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 6,
+      "hasContent" : true
+    }, {
+      "name" : "verify the size of List<WebElement> is equal to a given expected amount",
+      "time" : {
+        "start" : 1601793930044,
+        "stop" : 1601793935095,
+        "duration" : 5051
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "items",
+        "value" : "[]"
+      }, {
+        "name" : "expectedAmountOfItems",
+        "value" : "0"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 8,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1601793938390,
+      "stop" : 1601793939720,
+      "duration" : 1330
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1601793935136,
+      "stop" : 1601793935253,
+      "duration" : 117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test04_addItemAndRemoveItFromCartPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.saucedemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "19740@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79c517cf68078f19.json",
+  "parameterValues" : [ "web" ]
+}
