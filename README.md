@@ -8,6 +8,7 @@ Test Automation Final Project includes the following:
 * Exception Handling including screenshots
 * Graphic Element comparison using AShot
 * Connection to mySQL DB
+* Connection to Jenkins
 * Sanity tests to the following platforms:
 1. Web - https://www.saucedemo.com/
 2. Mobile App - Spotify
