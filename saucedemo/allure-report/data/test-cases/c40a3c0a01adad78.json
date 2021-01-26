@@ -1,0 +1,314 @@
+{
+  "uid" : "c40a3c0a01adad78",
+  "name" : "logout from the app",
+  "fullName" : "SanityTestCases.SpotifyMobile.test06_logout",
+  "historyId" : "d4c191bb3343d79a1e5e4432dfc3a18a",
+  "time" : {
+    "start" : 1611565889296,
+    "stop" : 1611565921083,
+    "duration" : 31787
+  },
+  "description" : "Test Description: logout from the app and verify the initial page is display",
+  "descriptionHtml" : "<p>Test Description: logout from the app and verify the initial page is display</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611565807371,
+      "stop" : 1611565819965,
+      "duration" : 12594
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: logout from the app and verify the initial page is display",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "logout",
+      "time" : {
+        "start" : 1611565889296,
+        "stop" : 1611565919208,
+        "duration" : 29912
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565889682,
+          "stop" : 1611565890130,
+          "duration" : 448
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@content-desc='מסך הבית']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565891411,
+          "stop" : 1611565891828,
+          "duration" : 417
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@content-desc='הגדרות']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "swipe down until element is found and click it",
+        "time" : {
+          "start" : 1611565891828,
+          "stop" : 1611565919208,
+          "duration" : 27380
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "direction",
+          "value" : "Down"
+        }, {
+          "name" : "offset",
+          "value" : "500"
+        }, {
+          "name" : "SwipeTime",
+          "value" : "500"
+        }, {
+          "name" : "locator",
+          "value" : "xpath=//*[@text='התנתקות']"
+        }, {
+          "name" : "ElementIndex",
+          "value" : "0"
+        }, {
+          "name" : "delay",
+          "value" : "500"
+        }, {
+          "name" : "maxOfRounds",
+          "value" : "7"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "verify WebElement is displayed",
+      "time" : {
+        "start" : 1611565920727,
+        "stop" : 1611565921082,
+        "duration" : 355
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@text='כניסה']]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611565921084,
+      "stop" : 1611565921084,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611565921086,
+      "stop" : 1611565922893,
+      "duration" : 1807
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "test06_logout"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Mobile Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "23396@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "mobile"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6d8b9ce749ba413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611483094450,
+        "stop" : 1611483128133,
+        "duration" : 33683
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 1,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "833bafbf37e390c",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/833bafbf37e390c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611471464063,
+          "stop" : 1611471495993,
+          "duration" : 31930
+        }
+      }, {
+        "uid" : "8c5dc006af0cf54f",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/8c5dc006af0cf54f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611471464063,
+          "stop" : 1611471495993,
+          "duration" : 31930
+        }
+      }, {
+        "uid" : "1e1b83547ca72836",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/1e1b83547ca72836",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997003305,
+          "stop" : 1606997036040,
+          "duration" : 32735
+        }
+      }, {
+        "uid" : "292c020f615f23fe",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/292c020f615f23fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605010103702,
+          "stop" : 1605010136452,
+          "duration" : 32750
+        }
+      }, {
+        "uid" : "fb2aacb4821ce727",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/fb2aacb4821ce727",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795727654,
+          "stop" : 1601795759627,
+          "duration" : 31973
+        }
+      }, {
+        "uid" : "525620fd81e5eb36",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/525620fd81e5eb36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601540355060,
+          "stop" : 1601540387382,
+          "duration" : 32322
+        }
+      }, {
+        "uid" : "f63eaae8e488e55d",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/f63eaae8e488e55d",
+        "status" : "skipped",
+        "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+        "time" : {
+          "start" : 1601539526174,
+          "stop" : 1601539526174,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c40a3c0a01adad78.json",
+  "parameterValues" : [ "mobile" ]
+}

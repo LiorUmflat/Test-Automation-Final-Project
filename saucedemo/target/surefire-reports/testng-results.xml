@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13306" started-at="2020-10-04T10:18:45 IDT" finished-at="2020-10-04T10:18:59 IDT">
+  <suite name="Suite" duration-ms="12869" started-at="2021-01-25T11:12:38 IST" finished-at="2021-01-25T11:12:51 IST">
     <groups>
     </groups>
-    <test name="Electron Tests" duration-ms="13306" started-at="2020-10-04T10:18:45 IDT" finished-at="2020-10-04T10:18:59 IDT">
+    <test name="Electron Tests" duration-ms="12869" started-at="2021-01-25T11:12:38 IST" finished-at="2021-01-25T11:12:51 IST">
       <class name="SanityTestCases.TodolistElectron">
-        <test-method status="PASS" signature="StartSession(java.lang.String)[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="StartSession" is-config="true" duration-ms="7242" started-at="2020-10-04T10:18:45 IDT" finished-at="2020-10-04T10:18:53 IDT">
+        <test-method status="PASS" signature="StartSession(java.lang.String)[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="StartSession" is-config="true" duration-ms="7151" started-at="2021-01-25T11:12:38 IST" finished-at="2021-01-25T11:12:45 IST">
           <params>
             <param index="0">
               <value>
@@ -18,47 +18,47 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSession -->
-        <test-method status="PASS" signature="test01_AddNewTask()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="test01_AddNewTask" duration-ms="417" started-at="2020-10-04T10:18:53 IDT" description="Test 01: add new task" finished-at="2020-10-04T10:18:53 IDT">
+        <test-method status="PASS" signature="test01_AddNewTask()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="test01_AddNewTask" duration-ms="680" started-at="2021-01-25T11:12:45 IST" description="Test 01: add new task" finished-at="2021-01-25T11:12:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01_AddNewTask -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="afterMethod" is-config="true" duration-ms="119" started-at="2020-10-04T10:18:53 IDT" finished-at="2020-10-04T10:18:53 IDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="afterMethod" is-config="true" duration-ms="116" started-at="2021-01-25T11:12:46 IST" finished-at="2021-01-25T11:12:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="test02_AddNewTask()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="test02_AddNewTask" duration-ms="712" started-at="2020-10-04T10:18:53 IDT" description="Test 02: add 2 new tasks" finished-at="2020-10-04T10:18:54 IDT">
+        <test-method status="PASS" signature="test02_AddNewTask()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="test02_AddNewTask" duration-ms="592" started-at="2021-01-25T11:12:46 IST" description="Test 02: add 2 new tasks" finished-at="2021-01-25T11:12:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test02_AddNewTask -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="afterMethod" is-config="true" duration-ms="120" started-at="2020-10-04T10:18:54 IDT" finished-at="2020-10-04T10:18:54 IDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="afterMethod" is-config="true" duration-ms="228" started-at="2021-01-25T11:12:47 IST" finished-at="2021-01-25T11:12:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="test03_markTaskAsCompleted()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="test03_markTaskAsCompleted" duration-ms="1145" started-at="2020-10-04T10:18:54 IDT" description="Test 03: mark task as completed" finished-at="2020-10-04T10:18:55 IDT">
+        <test-method status="PASS" signature="test03_markTaskAsCompleted()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="test03_markTaskAsCompleted" duration-ms="992" started-at="2021-01-25T11:12:47 IST" description="Test 03: mark task as completed" finished-at="2021-01-25T11:12:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test03_markTaskAsCompleted -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="afterMethod" is-config="true" duration-ms="249" started-at="2020-10-04T10:18:55 IDT" finished-at="2020-10-04T10:18:56 IDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="afterMethod" is-config="true" duration-ms="315" started-at="2021-01-25T11:12:48 IST" finished-at="2021-01-25T11:12:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="test04_markAllTaskAsCompleted()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="test04_markAllTaskAsCompleted" duration-ms="1182" started-at="2020-10-04T10:18:56 IDT" description="Test 04: mark all task as completed" finished-at="2020-10-04T10:18:57 IDT">
+        <test-method status="PASS" signature="test04_markAllTaskAsCompleted()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="test04_markAllTaskAsCompleted" duration-ms="888" started-at="2021-01-25T11:12:48 IST" description="Test 04: mark all task as completed" finished-at="2021-01-25T11:12:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test04_markAllTaskAsCompleted -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="afterMethod" is-config="true" duration-ms="287" started-at="2020-10-04T10:18:57 IDT" finished-at="2020-10-04T10:18:57 IDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="afterMethod" is-config="true" duration-ms="318" started-at="2021-01-25T11:12:49 IST" finished-at="2021-01-25T11:12:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="test05_deleteTaskFromTheList()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="test05_deleteTaskFromTheList" duration-ms="1204" started-at="2020-10-04T10:18:57 IDT" description="Test 05: delete one task from the list" finished-at="2020-10-04T10:18:58 IDT">
+        <test-method status="PASS" signature="test05_deleteTaskFromTheList()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="test05_deleteTaskFromTheList" duration-ms="1121" started-at="2021-01-25T11:12:49 IST" description="Test 05: delete one task from the list" finished-at="2021-01-25T11:12:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test05_deleteTaskFromTheList -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="afterMethod" is-config="true" duration-ms="238" started-at="2020-10-04T10:18:58 IDT" finished-at="2020-10-04T10:18:59 IDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="afterMethod" is-config="true" duration-ms="198" started-at="2021-01-25T11:12:50 IST" finished-at="2021-01-25T11:12:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="EndSession()[pri:0, instance:SanityTestCases.TodolistElectron@2d72f75e]" name="EndSession" is-config="true" duration-ms="23" started-at="2020-10-04T10:18:59 IDT" finished-at="2020-10-04T10:18:59 IDT">
+        <test-method status="PASS" signature="EndSession()[pri:0, instance:SanityTestCases.TodolistElectron@6d6bc158]" name="EndSession" is-config="true" duration-ms="7" started-at="2021-01-25T11:12:51 IST" finished-at="2021-01-25T11:12:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSession -->

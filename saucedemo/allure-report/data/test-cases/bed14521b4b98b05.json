@@ -1,0 +1,250 @@
+{
+  "uid" : "bed14521b4b98b05",
+  "name" : "delete the last added student from the server",
+  "fullName" : "SanityTestCases.StudentsAPI.test_04_deleteStudent",
+  "historyId" : "cec75176a12803f3b46985c1432463e5",
+  "time" : {
+    "start" : 1611476083127,
+    "stop" : 1611476083217,
+    "duration" : 90
+  },
+  "description" : "Test Description: delete the last added student from the server and verify 100 students exists",
+  "descriptionHtml" : "<p>Test Description: delete the last added student from the server and verify 100 students exists</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611476077403,
+      "stop" : 1611476080623,
+      "duration" : 3220
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: delete the last added student from the server and verify 100 students exists",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "delete student from the server",
+      "time" : {
+        "start" : 1611476083127,
+        "stop" : 1611476083155,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Delete data from server",
+        "time" : {
+          "start" : 1611476083128,
+          "stop" : 1611476083155,
+          "duration" : 27
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "id",
+          "value" : " 102"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "id",
+        "value" : " 102"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "get the students ID's",
+      "time" : {
+        "start" : 1611476083156,
+        "stop" : 1611476083217,
+        "duration" : 61
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "get the Students from the server",
+        "time" : {
+          "start" : 1611476083156,
+          "stop" : 1611476083197,
+          "duration" : 41
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "GET the DATA from the Server",
+          "time" : {
+            "start" : 1611476083156,
+            "stop" : 1611476083197,
+            "duration" : 41
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "paramsValues",
+            "value" : "/list"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "Extract value according to path from JSON format",
+        "time" : {
+          "start" : 1611476083197,
+          "stop" : 1611476083217,
+          "duration" : 20
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@614cbec4"
+        }, {
+          "name" : "path",
+          "value" : "id"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "verify 2 given int are equal",
+      "time" : {
+        "start" : 1611476083217,
+        "stop" : 1611476083217,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "100"
+      }, {
+        "name" : "expected",
+        "value" : "100"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611476083220,
+      "stop" : 1611476083220,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611476083222,
+      "stop" : 1611476083230,
+      "duration" : 8
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_04_deleteStudent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "7568@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bed14521b4b98b05.json",
+  "parameterValues" : [ "api" ]
+}

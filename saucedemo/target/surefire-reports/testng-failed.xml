@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
-  <test thread-count="5" verbose="0" name="Web Tests(failed)">
-    <parameter name="PlatformName" value="web"/>
+  <test thread-count="5" verbose="0" name="Mobile Tests(failed)">
+    <parameter name="PlatformName" value="mobile"/>
     <classes>
-      <class name="SanityTestCases.saucedemoWeb">
+      <class name="SanityTestCases.SpotifyMobile">
         <methods>
+          <include name="test03_pausePlayingSong"/>
+          <include name="test01_login"/>
+          <include name="test02_searchSongAndPlayIt"/>
           <include name="StartSession"/>
-          <include name="test06_verifyRobotImage"/>
+          <include name="test04_addSongToFavoritesFromPlayer"/>
+          <include name="test05_removeSongsFromFavorites"/>
           <include name="EndSession"/>
+          <include name="test06_logout"/>
           <include name="afterMethod"/>
         </methods>
-      </class> <!-- SanityTestCases.saucedemoWeb -->
+      </class> <!-- SanityTestCases.SpotifyMobile -->
     </classes>
-  </test> <!-- Web Tests(failed) -->
+  </test> <!-- Mobile Tests(failed) -->
 </suite> <!-- Failed suite [Suite] -->

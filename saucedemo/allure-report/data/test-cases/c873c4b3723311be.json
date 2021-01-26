@@ -1,0 +1,394 @@
+{
+  "uid" : "c873c4b3723311be",
+  "name" : "Add new student to the server",
+  "fullName" : "SanityTestCases.StudentsAPI.test_02_AddStudent",
+  "historyId" : "279c6716081ce88ff0aef2d288c2ea7",
+  "time" : {
+    "start" : 1611565940517,
+    "stop" : 1611565940920,
+    "duration" : 403
+  },
+  "description" : "Test Description: add new student to server and verify 101 students Exists",
+  "descriptionHtml" : "<p>Test Description: add new student to server and verify 101 students Exists</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611565934234,
+      "stop" : 1611565938224,
+      "duration" : 3990
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: add new student to server and verify 101 students Exists",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "add new student to server",
+      "time" : {
+        "start" : 1611565940517,
+        "stop" : 1611565940805,
+        "duration" : 288
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST data to server",
+        "time" : {
+          "start" : 1611565940520,
+          "stop" : 1611565940805,
+          "duration" : 285
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "params",
+          "value" : "{\"firstName\":\"Lior\",\"lastName\":\"Umflat\",\"courses\":[\"Java\",\"Selenium\",\"appium\"],\"programme\":\"Automation\",\"email\":\"lior.hammer@gmail.com\"}"
+        }, {
+          "name" : "resource",
+          "value" : ""
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "FirstName",
+        "value" : "Lior"
+      }, {
+        "name" : "LastName",
+        "value" : "Umflat"
+      }, {
+        "name" : "email",
+        "value" : "lior.hammer@gmail.com"
+      }, {
+        "name" : "programme",
+        "value" : "Automation"
+      }, {
+        "name" : "courses",
+        "value" : "[Java, Selenium, appium]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "get the students ID's",
+      "time" : {
+        "start" : 1611565940805,
+        "stop" : 1611565940920,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "get the Students from the server",
+        "time" : {
+          "start" : 1611565940805,
+          "stop" : 1611565940872,
+          "duration" : 67
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "GET the DATA from the Server",
+          "time" : {
+            "start" : 1611565940805,
+            "stop" : 1611565940872,
+            "duration" : 67
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "paramsValues",
+            "value" : "/list"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "Extract value according to path from JSON format",
+        "time" : {
+          "start" : 1611565940872,
+          "stop" : 1611565940920,
+          "duration" : 48
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@50b38342"
+        }, {
+          "name" : "path",
+          "value" : "id"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "verify 2 given int are equal",
+      "time" : {
+        "start" : 1611565940920,
+        "stop" : 1611565940920,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "101"
+      }, {
+        "name" : "expected",
+        "value" : "101"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611565940923,
+      "stop" : 1611565940923,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611565941333,
+      "stop" : 1611565941340,
+      "duration" : 7
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_02_AddStudent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "7468@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "610b31323d44fbc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476199709,
+        "stop" : 1611476199913,
+        "duration" : 204
+      }
+    }, {
+      "uid" : "b9ff70169e049036",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476170971,
+        "stop" : 1611476171182,
+        "duration" : 211
+      }
+    }, {
+      "uid" : "6fb57d255d0b7bfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476082717,
+        "stop" : 1611476082925,
+        "duration" : 208
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "f1f8c71e04531b82",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/f1f8c71e04531b82",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect",
+        "time" : {
+          "start" : 1611473976702,
+          "stop" : 1611473980904,
+          "duration" : 4202
+        }
+      }, {
+        "uid" : "122aa9404cdf94d0",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/122aa9404cdf94d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997262755,
+          "stop" : 1606997263165,
+          "duration" : 410
+        }
+      }, {
+        "uid" : "5880e7e23a08e791",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/5880e7e23a08e791",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997262755,
+          "stop" : 1606997263165,
+          "duration" : 410
+        }
+      }, {
+        "uid" : "fa24c3c9036a367d",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/fa24c3c9036a367d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605010166735,
+          "stop" : 1605010167123,
+          "duration" : 388
+        }
+      }, {
+        "uid" : "46c1cd6488f8b7c0",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/46c1cd6488f8b7c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604563837029,
+          "stop" : 1604563837418,
+          "duration" : 389
+        }
+      }, {
+        "uid" : "b47a59470d2ac404",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/b47a59470d2ac404",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795853521,
+          "stop" : 1601795853847,
+          "duration" : 326
+        }
+      }, {
+        "uid" : "643db2e7c2c59ef2",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/643db2e7c2c59ef2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793582527,
+          "stop" : 1601793583005,
+          "duration" : 478
+        }
+      }, {
+        "uid" : "950e5f8efa2afe3e",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/950e5f8efa2afe3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601535687081,
+          "stop" : 1601535687415,
+          "duration" : 334
+        }
+      }, {
+        "uid" : "2f8a0354c5fb5d89",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/2f8a0354c5fb5d89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601535687081,
+          "stop" : 1601535687415,
+          "duration" : 334
+        }
+      }, {
+        "uid" : "bfad0cb97b255363",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/bfad0cb97b255363",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1601534728396,
+          "stop" : 1601534728808,
+          "duration" : 412
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c873c4b3723311be.json",
+  "parameterValues" : [ "api" ]
+}

@@ -1,0 +1,343 @@
+{
+  "uid" : "fdba2fbce0a8c8dc",
+  "name" : "Get The Students from the server",
+  "fullName" : "SanityTestCases.StudentsAPI.test_01_GetStudents",
+  "historyId" : "41c2f2acd4d032fecc135c0316e2f3f7",
+  "time" : {
+    "start" : 1611565938271,
+    "stop" : 1611565940425,
+    "duration" : 2154
+  },
+  "description" : "Test Description: get the Students from the server and verify 100 Students Exists",
+  "descriptionHtml" : "<p>Test Description: get the Students from the server and verify 100 Students Exists</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611565934234,
+      "stop" : 1611565938224,
+      "duration" : 3990
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: get the Students from the server and verify 100 Students Exists",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get the students ID's",
+      "time" : {
+        "start" : 1611565938302,
+        "stop" : 1611565940409,
+        "duration" : 2107
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "get the Students from the server",
+        "time" : {
+          "start" : 1611565938302,
+          "stop" : 1611565939534,
+          "duration" : 1232
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "GET the DATA from the Server",
+          "time" : {
+            "start" : 1611565938302,
+            "stop" : 1611565939534,
+            "duration" : 1232
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "paramsValues",
+            "value" : "/list"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "Extract value according to path from JSON format",
+        "time" : {
+          "start" : 1611565939535,
+          "stop" : 1611565940409,
+          "duration" : 874
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@5f935d49"
+        }, {
+          "name" : "path",
+          "value" : "id"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "verify 2 given int are equal",
+      "time" : {
+        "start" : 1611565940420,
+        "stop" : 1611565940423,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "100"
+      }, {
+        "name" : "expected",
+        "value" : "100"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611565940505,
+      "stop" : 1611565940505,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611565941333,
+      "stop" : 1611565941340,
+      "duration" : 7
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_01_GetStudents"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "7468@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "be8e5f40c24d7c38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476197712,
+        "stop" : 1611476199632,
+        "duration" : 1920
+      }
+    }, {
+      "uid" : "80fd865e6d0b21ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476169002,
+        "stop" : 1611476170859,
+        "duration" : 1857
+      }
+    }, {
+      "uid" : "5392cf27439e0634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611476080652,
+        "stop" : 1611476082615,
+        "duration" : 1963
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "e279b4399037076c",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/e279b4399037076c",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect",
+        "time" : {
+          "start" : 1611473971495,
+          "stop" : 1611473976578,
+          "duration" : 5083
+        }
+      }, {
+        "uid" : "e9a0e0117cb14f95",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/e9a0e0117cb14f95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997260389,
+          "stop" : 1606997262690,
+          "duration" : 2301
+        }
+      }, {
+        "uid" : "e7a8e3bbe5f18450",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/e7a8e3bbe5f18450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997260389,
+          "stop" : 1606997262690,
+          "duration" : 2301
+        }
+      }, {
+        "uid" : "80c5c3b34cd2a2b6",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/80c5c3b34cd2a2b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605010164169,
+          "stop" : 1605010166629,
+          "duration" : 2460
+        }
+      }, {
+        "uid" : "885a74e63d1f2775",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/885a74e63d1f2775",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604563834722,
+          "stop" : 1604563836947,
+          "duration" : 2225
+        }
+      }, {
+        "uid" : "7873ee8234534eac",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/7873ee8234534eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795850800,
+          "stop" : 1601795853412,
+          "duration" : 2612
+        }
+      }, {
+        "uid" : "9240887abe18ecb9",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/9240887abe18ecb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793578497,
+          "stop" : 1601793582326,
+          "duration" : 3829
+        }
+      }, {
+        "uid" : "1b12403ffd75b00b",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/1b12403ffd75b00b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601535684814,
+          "stop" : 1601535686966,
+          "duration" : 2152
+        }
+      }, {
+        "uid" : "92a817f5b7b3c019",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/92a817f5b7b3c019",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601535684814,
+          "stop" : 1601535686966,
+          "duration" : 2152
+        }
+      }, {
+        "uid" : "9dd70f6c6d138ce3",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/9dd70f6c6d138ce3",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1601534807982,
+          "stop" : 1601534808385,
+          "duration" : 403
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fdba2fbce0a8c8dc.json",
+  "parameterValues" : [ "api" ]
+}

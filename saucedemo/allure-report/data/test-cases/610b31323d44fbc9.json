@@ -1,0 +1,265 @@
+{
+  "uid" : "610b31323d44fbc9",
+  "name" : "Add new student to the server",
+  "fullName" : "SanityTestCases.StudentsAPI.test_02_AddStudent",
+  "historyId" : "279c6716081ce88ff0aef2d288c2ea7",
+  "time" : {
+    "start" : 1611476199709,
+    "stop" : 1611476199913,
+    "duration" : 204
+  },
+  "description" : "Test Description: add new student to server and verify 101 students Exists",
+  "descriptionHtml" : "<p>Test Description: add new student to server and verify 101 students Exists</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611476194361,
+      "stop" : 1611476197639,
+      "duration" : 3278
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: add new student to server and verify 101 students Exists",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "add new student to server",
+      "time" : {
+        "start" : 1611476199709,
+        "stop" : 1611476199845,
+        "duration" : 136
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST data to server",
+        "time" : {
+          "start" : 1611476199712,
+          "stop" : 1611476199845,
+          "duration" : 133
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "params",
+          "value" : "{\"firstName\":\"Lior\",\"lastName\":\"Umflat\",\"courses\":[\"Java\",\"Selenium\",\"appium\"],\"programme\":\"Automation\",\"email\":\"lior.hammer@gmail.com\"}"
+        }, {
+          "name" : "resource",
+          "value" : ""
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "FirstName",
+        "value" : "Lior"
+      }, {
+        "name" : "LastName",
+        "value" : "Umflat"
+      }, {
+        "name" : "email",
+        "value" : "lior.hammer@gmail.com"
+      }, {
+        "name" : "programme",
+        "value" : "Automation"
+      }, {
+        "name" : "courses",
+        "value" : "[Java, Selenium, appium]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "get the students ID's",
+      "time" : {
+        "start" : 1611476199845,
+        "stop" : 1611476199913,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "get the Students from the server",
+        "time" : {
+          "start" : 1611476199845,
+          "stop" : 1611476199878,
+          "duration" : 33
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "GET the DATA from the Server",
+          "time" : {
+            "start" : 1611476199845,
+            "stop" : 1611476199878,
+            "duration" : 33
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "paramsValues",
+            "value" : "/list"
+          } ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1,
+        "hasContent" : true
+      }, {
+        "name" : "Extract value according to path from JSON format",
+        "time" : {
+          "start" : 1611476199878,
+          "stop" : 1611476199913,
+          "duration" : 35
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@3265995e"
+        }, {
+          "name" : "path",
+          "value" : "id"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "verify 2 given int are equal",
+      "time" : {
+        "start" : 1611476199913,
+        "stop" : 1611476199913,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "101"
+      }, {
+        "name" : "expected",
+        "value" : "101"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611476199916,
+      "stop" : 1611476199916,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611476200171,
+      "stop" : 1611476200183,
+      "duration" : 12
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_02_AddStudent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.StudentsAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "6692@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "610b31323d44fbc9.json",
+  "parameterValues" : [ "api" ]
+}

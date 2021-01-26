@@ -1,0 +1,554 @@
+{
+  "uid" : "ca392abbf6c21f45",
+  "name" : "Test 04: mark all task as completed",
+  "fullName" : "SanityTestCases.TodolistElectron.test04_markAllTaskAsCompleted",
+  "historyId" : "859576393e68c64fe6ef3c23a976e393",
+  "time" : {
+    "start" : 1611565968582,
+    "stop" : 1611565969469,
+    "duration" : 887
+  },
+  "description" : "Test Description: mark all task as completed and verify they has V sign",
+  "descriptionHtml" : "<p>Test Description: mark all task as completed and verify they has V sign</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611565958326,
+      "stop" : 1611565965443,
+      "duration" : 7117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: mark all task as completed and verify they has V sign",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "add new task to the list of tasks",
+      "time" : {
+        "start" : 1611565968582,
+        "stop" : 1611565968776,
+        "duration" : 194
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565968604,
+          "stop" : 1611565968650,
+          "duration" : 46
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enter string to an element",
+        "time" : {
+          "start" : 1611565968667,
+          "stop" : 1611565968709,
+          "duration" : 42
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "keys",
+          "value" : "Lior"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "send Key to element",
+        "time" : {
+          "start" : 1611565968725,
+          "stop" : 1611565968776,
+          "duration" : 51
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "key",
+          "value" : ""
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "taskName",
+        "value" : "Lior"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "add new task to the list of tasks",
+      "time" : {
+        "start" : 1611565968776,
+        "stop" : 1611565968960,
+        "duration" : 184
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565968790,
+          "stop" : 1611565968832,
+          "duration" : 42
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enter string to an element",
+        "time" : {
+          "start" : 1611565968850,
+          "stop" : 1611565968897,
+          "duration" : 47
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "keys",
+          "value" : "Tamar"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "send Key to element",
+        "time" : {
+          "start" : 1611565968912,
+          "stop" : 1611565968960,
+          "duration" : 48
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "key",
+          "value" : ""
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "taskName",
+        "value" : "Tamar"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "add new task to the list of tasks",
+      "time" : {
+        "start" : 1611565968960,
+        "stop" : 1611565969206,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565968974,
+          "stop" : 1611565969034,
+          "duration" : 60
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enter string to an element",
+        "time" : {
+          "start" : 1611565969057,
+          "stop" : 1611565969105,
+          "duration" : 48
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "keys",
+          "value" : "Yaki"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "send Key to element",
+        "time" : {
+          "start" : 1611565969136,
+          "stop" : 1611565969206,
+          "duration" : 70
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: input_b5pqF]"
+        }, {
+          "name" : "key",
+          "value" : ""
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "taskName",
+        "value" : "Yaki"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "mark all task as completed",
+      "time" : {
+        "start" : 1611565969207,
+        "stop" : 1611565969321,
+        "duration" : 114
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565969236,
+          "stop" : 1611565969320,
+          "duration" : 84
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: allCompletedIconWrapper_2rCqr]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "count tasks marked as completed",
+      "time" : {
+        "start" : 1611565969357,
+        "stop" : 1611565969468,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "tasks",
+        "value" : "[[[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: toggleIconsWrapper_2kpi8], [[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: toggleIconsWrapper_2kpi8], [[ChromeDriver: chrome on XP (4c28d8e34e1c60d3a0e82e4f82c4cb70)] -> class name: toggleIconsWrapper_2kpi8]]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "verify 2 given int are equal",
+      "time" : {
+        "start" : 1611565969468,
+        "stop" : 1611565969468,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "3"
+      }, {
+        "name" : "expected",
+        "value" : "3"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 16,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611565971115,
+      "stop" : 1611565971121,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611565969471,
+      "stop" : 1611565969789,
+      "duration" : 318
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "empty list of tasks",
+      "time" : {
+        "start" : 1611565969471,
+        "stop" : 1611565969789,
+        "duration" : 318
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "count the number of tasks",
+        "time" : {
+          "start" : 1611565969471,
+          "stop" : 1611565969496,
+          "duration" : 25
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.TodolistElectron"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.TodolistElectron"
+  }, {
+    "name" : "testMethod",
+    "value" : "test04_markAllTaskAsCompleted"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Electron Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.TodolistElectron"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "9420@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "electron"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "d2cf84f1a006ae85",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/d2cf84f1a006ae85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611474364269,
+          "stop" : 1611474365228,
+          "duration" : 959
+        }
+      }, {
+        "uid" : "5bbe44ad19141b20",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/5bbe44ad19141b20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611474084448,
+          "stop" : 1611474085517,
+          "duration" : 1069
+        }
+      }, {
+        "uid" : "e78ff4f7dbcad87d",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/e78ff4f7dbcad87d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611471588337,
+          "stop" : 1611471589391,
+          "duration" : 1054
+        }
+      }, {
+        "uid" : "95416f2fa6306179",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/95416f2fa6306179",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606997311980,
+          "stop" : 1606997312924,
+          "duration" : 944
+        }
+      }, {
+        "uid" : "6770062f27ad3d8e",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/6770062f27ad3d8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605010204964,
+          "stop" : 1605010205998,
+          "duration" : 1034
+        }
+      }, {
+        "uid" : "b5693748cfe79f11",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/b5693748cfe79f11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604564149132,
+          "stop" : 1604564150092,
+          "duration" : 960
+        }
+      }, {
+        "uid" : "4ac529592ec39267",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/4ac529592ec39267",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795936120,
+          "stop" : 1601795937301,
+          "duration" : 1181
+        }
+      }, {
+        "uid" : "80daa8827450604f",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/80daa8827450604f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601793634498,
+          "stop" : 1601793635893,
+          "duration" : 1395
+        }
+      }, {
+        "uid" : "4acdccd8078ac461",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/4acdccd8078ac461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601540884320,
+          "stop" : 1601540885169,
+          "duration" : 849
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ca392abbf6c21f45.json",
+  "parameterValues" : [ "electron" ]
+}

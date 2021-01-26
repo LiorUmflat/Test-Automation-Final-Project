@@ -1,0 +1,431 @@
+{
+  "uid" : "8cf365bcdd7a4a0f",
+  "name" : "remove songs from favorites in player section",
+  "fullName" : "SanityTestCases.SpotifyMobile.test05_removeSongsFromFavorites",
+  "historyId" : "95bc027381e8ee8a378c388afc9a4e14",
+  "time" : {
+    "start" : 1611565871217,
+    "stop" : 1611565889291,
+    "duration" : 18074
+  },
+  "description" : "Test Description: remove songs from favorites in player section and verify it was removed",
+  "descriptionHtml" : "<p>Test Description: remove songs from favorites in player section and verify it was removed</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1611565807371,
+      "stop" : 1611565819965,
+      "duration" : 12594
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: remove songs from favorites in player section and verify it was removed",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "search song and play it",
+      "time" : {
+        "start" : 1611565871217,
+        "stop" : 1611565878021,
+        "duration" : 6804
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565872395,
+          "stop" : 1611565872806,
+          "duration" : 411
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@content-desc='חיפוש']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565874119,
+          "stop" : 1611565874467,
+          "duration" : 348
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: find_search_field]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enter string to an element",
+        "time" : {
+          "start" : 1611565875922,
+          "stop" : 1611565876564,
+          "duration" : 642
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: query]"
+        }, {
+          "name" : "keys",
+          "value" : "we will rock you"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565877833,
+          "stop" : 1611565878021,
+          "duration" : 188
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: row_view]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "song",
+        "value" : "we will rock you"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 4,
+      "hasContent" : true
+    }, {
+      "name" : "click on an element",
+      "time" : {
+        "start" : 1611565879337,
+        "stop" : 1611565879762,
+        "duration" : 425
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: heart_button]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click on an element",
+      "time" : {
+        "start" : 1611565880985,
+        "stop" : 1611565881387,
+        "duration" : 402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: heart_button]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter 'your libray'->'songs you liked'",
+      "time" : {
+        "start" : 1611565881388,
+        "stop" : 1611565885607,
+        "duration" : 4219
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565882769,
+          "stop" : 1611565883151,
+          "duration" : 382
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@content-desc='הספרייה שלכם']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "click on an element",
+        "time" : {
+          "start" : 1611565884651,
+          "stop" : 1611565885607,
+          "duration" : 956
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> xpath: //*[@text='שירים שאהבתם']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "click on an element",
+      "time" : {
+        "start" : 1611565886799,
+        "stop" : 1611565887189,
+        "duration" : 390
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: play_pause_button]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "verify List<WebElement> contains or not contains a given text",
+      "time" : {
+        "start" : 1611565888494,
+        "stop" : 1611565889291,
+        "duration" : 797
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elemList",
+        "value" : "[[[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: text1], [[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: text1], [[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: text1], [[AndroidDriver:  on ANY (4c11358f-0de0-4dc0-9544-3063f5e5bccf)] -> id: text1]]"
+      }, {
+        "name" : "text",
+        "value" : "we will rock you"
+      }, {
+        "name" : "containsOrNot",
+        "value" : "false"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 12,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1611565889292,
+      "stop" : 1611565889292,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1611565921086,
+      "stop" : 1611565922893,
+      "duration" : 1807
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "test05_removeSongsFromFavorites"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Mobile Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTestCases.SpotifyMobile"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-F8C47SGU"
+  }, {
+    "name" : "thread",
+    "value" : "23396@LAPTOP-F8C47SGU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "mobile"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd13ba7131830742",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611483073858,
+        "stop" : 1611483094445,
+        "duration" : 20587
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 1,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "24d4a3801fa7cca9",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/24d4a3801fa7cca9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611471446360,
+          "stop" : 1611471464057,
+          "duration" : 17697
+        }
+      }, {
+        "uid" : "be121069cc6120bd",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/be121069cc6120bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611471446360,
+          "stop" : 1611471464057,
+          "duration" : 17697
+        }
+      }, {
+        "uid" : "3b375f95c18870e9",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/3b375f95c18870e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606996984881,
+          "stop" : 1606997003297,
+          "duration" : 18416
+        }
+      }, {
+        "uid" : "6276fbc41db9e0a5",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/6276fbc41db9e0a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605010085567,
+          "stop" : 1605010103698,
+          "duration" : 18131
+        }
+      }, {
+        "uid" : "f97bceed9480af34",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/f97bceed9480af34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601795707683,
+          "stop" : 1601795727649,
+          "duration" : 19966
+        }
+      }, {
+        "uid" : "ab0aefda3b829d53",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/ab0aefda3b829d53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601540338402,
+          "stop" : 1601540355054,
+          "duration" : 16652
+        }
+      }, {
+        "uid" : "da577056c4b59933",
+        "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/da577056c4b59933",
+        "status" : "skipped",
+        "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+        "time" : {
+          "start" : 1601539526167,
+          "stop" : 1601539526167,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8cf365bcdd7a4a0f.json",
+  "parameterValues" : [ "mobile" ]
+}

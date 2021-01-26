@@ -8,7 +8,7 @@ public class managaeDB extends CommonOps
     {
         try
         {
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
             con = DriverManager.getConnection(DBUrl,user,password);
             stms = con.createStatement();
 
