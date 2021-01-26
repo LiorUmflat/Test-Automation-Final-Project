@@ -1,0 +1,211 @@
+[ {
+  "uid" : "c873c4b3723311be",
+  "name" : "Add new student to the server",
+  "time" : {
+    "start" : 1611565940517,
+    "stop" : 1611565940920,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "232e387f80bf7d8",
+  "name" : "delete the last added student from the server",
+  "time" : {
+    "start" : 1611565941194,
+    "stop" : 1611565941329,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef93a64667e994c2",
+  "name" : "add item and remove it from cart page",
+  "time" : {
+    "start" : 1611565514131,
+    "stop" : 1611565524732,
+    "duration" : 10601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a3317ed9301ec80",
+  "name" : "Test 01: add new task",
+  "time" : {
+    "start" : 1611565965495,
+    "stop" : 1611565966147,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61caadc2ed5f0065",
+  "name" : "Test 03: mark task as completed",
+  "time" : {
+    "start" : 1611565967272,
+    "stop" : 1611565968262,
+    "duration" : 990
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "473bfc38cc3779d6",
+  "name" : "add song to favorites from player section",
+  "time" : {
+    "start" : 1611565853750,
+    "stop" : 1611565871209,
+    "duration" : 17459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0d8ca11c88f75ea",
+  "name" : "search song and play it",
+  "time" : {
+    "start" : 1611565831540,
+    "stop" : 1611565843616,
+    "duration" : 12076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70e54e5346aa0dad",
+  "name" : "add item to cart",
+  "time" : {
+    "start" : 1611565513228,
+    "stop" : 1611565514052,
+    "duration" : 824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70e9b6037a7880b5",
+  "name" : "Test 02: add 2 new tasks",
+  "time" : {
+    "start" : 1611565966444,
+    "stop" : 1611565967035,
+    "duration" : 591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cf365bcdd7a4a0f",
+  "name" : "remove songs from favorites in player section",
+  "time" : {
+    "start" : 1611565871217,
+    "stop" : 1611565889291,
+    "duration" : 18074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff459a138949b929",
+  "name" : "login to the site",
+  "time" : {
+    "start" : 1611565509195,
+    "stop" : 1611565511588,
+    "duration" : 2393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c40a3c0a01adad78",
+  "name" : "logout from the app",
+  "time" : {
+    "start" : 1611565889296,
+    "stop" : 1611565921083,
+    "duration" : 31787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdba2fbce0a8c8dc",
+  "name" : "Get The Students from the server",
+  "time" : {
+    "start" : 1611565938271,
+    "stop" : 1611565940425,
+    "duration" : 2154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abb5c2537cbb0da7",
+  "name" : "login to Spotify",
+  "time" : {
+    "start" : 1611565820029,
+    "stop" : 1611565831412,
+    "duration" : 11383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39bece8aeccb6734",
+  "name" : "sort products from low to high",
+  "time" : {
+    "start" : 1611565511947,
+    "stop" : 1611565513078,
+    "duration" : 1131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95ee221079042779",
+  "name" : "pause playing song",
+  "time" : {
+    "start" : 1611565843631,
+    "stop" : 1611565853745,
+    "duration" : 10114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca392abbf6c21f45",
+  "name" : "Test 04: mark all task as completed",
+  "time" : {
+    "start" : 1611565968582,
+    "stop" : 1611565969469,
+    "duration" : 887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4df2b06a74c8333c",
+  "name" : "update the last added student in the server",
+  "time" : {
+    "start" : 1611565940929,
+    "stop" : 1611565941187,
+    "duration" : 258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd251b4a21fac296",
+  "name" : "verify robot image",
+  "time" : {
+    "start" : 1611565525949,
+    "stop" : 1611565526971,
+    "duration" : 1022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93df39f6cf5b1b71",
+  "name" : "Test 05: delete one task from the list",
+  "time" : {
+    "start" : 1611565969793,
+    "stop" : 1611565970912,
+    "duration" : 1119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6325d7379919c80c",
+  "name" : "logout of the site",
+  "time" : {
+    "start" : 1611565525113,
+    "stop" : 1611565525881,
+    "duration" : 768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

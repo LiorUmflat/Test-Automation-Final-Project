@@ -1,0 +1,2509 @@
+{
+  "7c6fda480904ba5c8939598cf1efbae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9add530f92fea6c0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/9add530f92fea6c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601462056411,
+        "stop" : 1601462057087,
+        "duration" : 676
+      }
+    } ]
+  },
+  "74defb77318e6f33f21db46e9bb2cf39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "9af557bbc087f213",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/9af557bbc087f213",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474365568,
+        "stop" : 1611474366601,
+        "duration" : 1033
+      }
+    }, {
+      "uid" : "d1b55159c25f668b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/d1b55159c25f668b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474085842,
+        "stop" : 1611474087037,
+        "duration" : 1195
+      }
+    }, {
+      "uid" : "76917aff213e3e56",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/76917aff213e3e56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471589715,
+        "stop" : 1611471590907,
+        "duration" : 1192
+      }
+    }, {
+      "uid" : "10867da923074454",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/10867da923074454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997313249,
+        "stop" : 1606997314216,
+        "duration" : 967
+      }
+    }, {
+      "uid" : "84a1b61907ed7b25",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/84a1b61907ed7b25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010206363,
+        "stop" : 1605010207531,
+        "duration" : 1168
+      }
+    }, {
+      "uid" : "c2846f5536f53647",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/c2846f5536f53647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604564150420,
+        "stop" : 1604564151587,
+        "duration" : 1167
+      }
+    }, {
+      "uid" : "da3fe8a5c97ebbb5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/da3fe8a5c97ebbb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795937594,
+        "stop" : 1601795938796,
+        "duration" : 1202
+      }
+    }, {
+      "uid" : "ef6f86e45782b9e6",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/ef6f86e45782b9e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793636223,
+        "stop" : 1601793637806,
+        "duration" : 1583
+      }
+    }, {
+      "uid" : "67be70dca69ea36e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/67be70dca69ea36e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540885428,
+        "stop" : 1601540886341,
+        "duration" : 913
+      }
+    } ]
+  },
+  "816f0e45300811dff642b7c15058dad8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "ca704d136693fdeb",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/ca704d136693fdeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474362955,
+        "stop" : 1611474363933,
+        "duration" : 978
+      }
+    }, {
+      "uid" : "2c0d82e2ac36000f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/2c0d82e2ac36000f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474083018,
+        "stop" : 1611474084110,
+        "duration" : 1092
+      }
+    }, {
+      "uid" : "cf1c90ffa014cf43",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/cf1c90ffa014cf43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471586854,
+        "stop" : 1611471587996,
+        "duration" : 1142
+      }
+    }, {
+      "uid" : "423d1e22f82a017b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/423d1e22f82a017b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997310683,
+        "stop" : 1606997311630,
+        "duration" : 947
+      }
+    }, {
+      "uid" : "41f245b731cb7f2a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/41f245b731cb7f2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010203659,
+        "stop" : 1605010204640,
+        "duration" : 981
+      }
+    }, {
+      "uid" : "f4107d80a75d8d3f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/f4107d80a75d8d3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604564147643,
+        "stop" : 1604564148792,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "9f0337189fc6eae7",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/9f0337189fc6eae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795934719,
+        "stop" : 1601795935864,
+        "duration" : 1145
+      }
+    }, {
+      "uid" : "488b220cda9dc7d9",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/488b220cda9dc7d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793632555,
+        "stop" : 1601793634078,
+        "duration" : 1523
+      }
+    }, {
+      "uid" : "5c83cf69a9cb3e8c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/5c83cf69a9cb3e8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540883174,
+        "stop" : 1601540884056,
+        "duration" : 882
+      }
+    } ]
+  },
+  "6a1fef12bdc715aba35058dd4651aaf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ca1ff61cf2ce03c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/9ca1ff61cf2ce03c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540161389,
+        "stop" : 1601540170847,
+        "duration" : 9458
+      }
+    } ]
+  },
+  "dd69fc5598d731f5b3d12b60b38d9eb9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9da9b9794c75fce7",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/9da9b9794c75fce7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540179006,
+        "stop" : 1601540193538,
+        "duration" : 14532
+      }
+    } ]
+  },
+  "8c3c7c00e03f245f53e2bfe89a82714a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "80d5d6c296228333",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/80d5d6c296228333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471395585,
+        "stop" : 1611471405621,
+        "duration" : 10036
+      }
+    }, {
+      "uid" : "710c2dc244291e84",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/710c2dc244291e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471395585,
+        "stop" : 1611471405621,
+        "duration" : 10036
+      }
+    }, {
+      "uid" : "829cbf712f9cecbd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/829cbf712f9cecbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996931558,
+        "stop" : 1606996942190,
+        "duration" : 10632
+      }
+    }, {
+      "uid" : "1e6e957fece1adbb",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/1e6e957fece1adbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010028565,
+        "stop" : 1605010043436,
+        "duration" : 14871
+      }
+    }, {
+      "uid" : "65f8f6b06558d930",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/65f8f6b06558d930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795655888,
+        "stop" : 1601795666593,
+        "duration" : 10705
+      }
+    }, {
+      "uid" : "129d4e0bff70fcff",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/129d4e0bff70fcff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540294355,
+        "stop" : 1601540303345,
+        "duration" : 8990
+      }
+    }, {
+      "uid" : "7f42b5a976716c4d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/7f42b5a976716c4d",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526123,
+        "stop" : 1601539526123,
+        "duration" : 0
+      }
+    } ]
+  },
+  "859576393e68c64fe6ef3c23a976e393" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "d2cf84f1a006ae85",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/d2cf84f1a006ae85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474364269,
+        "stop" : 1611474365228,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "5bbe44ad19141b20",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/5bbe44ad19141b20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474084448,
+        "stop" : 1611474085517,
+        "duration" : 1069
+      }
+    }, {
+      "uid" : "e78ff4f7dbcad87d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/e78ff4f7dbcad87d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471588337,
+        "stop" : 1611471589391,
+        "duration" : 1054
+      }
+    }, {
+      "uid" : "95416f2fa6306179",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/95416f2fa6306179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997311980,
+        "stop" : 1606997312924,
+        "duration" : 944
+      }
+    }, {
+      "uid" : "6770062f27ad3d8e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/6770062f27ad3d8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010204964,
+        "stop" : 1605010205998,
+        "duration" : 1034
+      }
+    }, {
+      "uid" : "b5693748cfe79f11",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/b5693748cfe79f11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604564149132,
+        "stop" : 1604564150092,
+        "duration" : 960
+      }
+    }, {
+      "uid" : "4ac529592ec39267",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/4ac529592ec39267",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795936120,
+        "stop" : 1601795937301,
+        "duration" : 1181
+      }
+    }, {
+      "uid" : "80daa8827450604f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/80daa8827450604f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793634498,
+        "stop" : 1601793635893,
+        "duration" : 1395
+      }
+    }, {
+      "uid" : "4acdccd8078ac461",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/4acdccd8078ac461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540884320,
+        "stop" : 1601540885169,
+        "duration" : 849
+      }
+    } ]
+  },
+  "fbd14613ae70e88e3996fd7b85f2bdff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59b3659d31e7de3c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/59b3659d31e7de3c",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1611472420537,
+        "stop" : 1611472420553,
+        "duration" : 16
+      }
+    } ]
+  },
+  "df607e329850f47e51f34241af04a253" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31f681d513637c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/31f681d513637c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601462057825,
+        "stop" : 1601462063304,
+        "duration" : 5479
+      }
+    } ]
+  },
+  "f9a3d69eaeb520d251962931352e038" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "b2c7953580dfd10",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/b2c7953580dfd10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471428925,
+        "stop" : 1611471446354,
+        "duration" : 17429
+      }
+    }, {
+      "uid" : "ecd6d2762982e6d5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/ecd6d2762982e6d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471428925,
+        "stop" : 1611471446354,
+        "duration" : 17429
+      }
+    }, {
+      "uid" : "beb42b7753e80449",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/beb42b7753e80449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996966847,
+        "stop" : 1606996984876,
+        "duration" : 18029
+      }
+    }, {
+      "uid" : "bcdf37590071934a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/bcdf37590071934a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010067545,
+        "stop" : 1605010085562,
+        "duration" : 18017
+      }
+    }, {
+      "uid" : "2c6bd4ec9c2914f1",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/2c6bd4ec9c2914f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795688298,
+        "stop" : 1601795707677,
+        "duration" : 19379
+      }
+    }, {
+      "uid" : "236943aaa17a66ad",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/236943aaa17a66ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540322118,
+        "stop" : 1601540338397,
+        "duration" : 16279
+      }
+    }, {
+      "uid" : "fc5949cde5ed1f8a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/fc5949cde5ed1f8a",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526161,
+        "stop" : 1601539526162,
+        "duration" : 1
+      }
+    } ]
+  },
+  "95bc027381e8ee8a378c388afc9a4e14" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "24d4a3801fa7cca9",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/24d4a3801fa7cca9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471446360,
+        "stop" : 1611471464057,
+        "duration" : 17697
+      }
+    }, {
+      "uid" : "be121069cc6120bd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/be121069cc6120bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471446360,
+        "stop" : 1611471464057,
+        "duration" : 17697
+      }
+    }, {
+      "uid" : "3b375f95c18870e9",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/3b375f95c18870e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996984881,
+        "stop" : 1606997003297,
+        "duration" : 18416
+      }
+    }, {
+      "uid" : "6276fbc41db9e0a5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/6276fbc41db9e0a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010085567,
+        "stop" : 1605010103698,
+        "duration" : 18131
+      }
+    }, {
+      "uid" : "f97bceed9480af34",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/f97bceed9480af34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795707683,
+        "stop" : 1601795727649,
+        "duration" : 19966
+      }
+    }, {
+      "uid" : "ab0aefda3b829d53",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/ab0aefda3b829d53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540338402,
+        "stop" : 1601540355054,
+        "duration" : 16652
+      }
+    }, {
+      "uid" : "da577056c4b59933",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/da577056c4b59933",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526167,
+        "stop" : 1601539526167,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d756a8080f37e244d49bb731b44d88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "37aa74d53d4d4610",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/37aa74d53d4d4610",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473868682,
+        "stop" : 1611473869447,
+        "duration" : 765
+      }
+    }, {
+      "uid" : "1303268fd1d47688",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/1303268fd1d47688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471542412,
+        "stop" : 1611471543156,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "2378b394ee6da35a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/2378b394ee6da35a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996794091,
+        "stop" : 1606996794819,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "12824bd7902c8496",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/12824bd7902c8496",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009975148,
+        "stop" : 1605009976051,
+        "duration" : 903
+      }
+    }, {
+      "uid" : "a7d175404249ebe5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/a7d175404249ebe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795469224,
+        "stop" : 1601795469838,
+        "duration" : 614
+      }
+    }, {
+      "uid" : "8caef2e0abdbcf2e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/8caef2e0abdbcf2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535825156,
+        "stop" : 1601535825832,
+        "duration" : 676
+      }
+    }, {
+      "uid" : "c23f61e7916efbcc",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/c23f61e7916efbcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535825156,
+        "stop" : 1601535825832,
+        "duration" : 676
+      }
+    }, {
+      "uid" : "c01658bdfd21e9f0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/c01658bdfd21e9f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534875492,
+        "stop" : 1601534876152,
+        "duration" : 660
+      }
+    }, {
+      "uid" : "c84d231b06c3c599",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/c84d231b06c3c599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534257401,
+        "stop" : 1601534258063,
+        "duration" : 662
+      }
+    }, {
+      "uid" : "f3763dbb8ea54e8a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/f3763dbb8ea54e8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534074609,
+        "stop" : 1601534075335,
+        "duration" : 726
+      }
+    }, {
+      "uid" : "3bf90790588b0ce6",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/13/allure/#testresult/3bf90790588b0ce6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601460323787,
+        "stop" : 1601460324518,
+        "duration" : 731
+      }
+    }, {
+      "uid" : "61947f02423827e4",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/12/allure/#testresult/61947f02423827e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454093267,
+        "stop" : 1601454093963,
+        "duration" : 696
+      }
+    }, {
+      "uid" : "75123d2109dc8b5e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/11/allure/#testresult/75123d2109dc8b5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454001158,
+        "stop" : 1601454001886,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "7cbbb7b7cd850b29",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/10/allure/#testresult/7cbbb7b7cd850b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453864341,
+        "stop" : 1601453865089,
+        "duration" : 748
+      }
+    } ]
+  },
+  "bb93453d343c7e1859c4e8d49d54c841" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22a9adaebd3f50ff",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/22a9adaebd3f50ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540170853,
+        "stop" : 1601540179002,
+        "duration" : 8149
+      }
+    } ]
+  },
+  "41c2f2acd4d032fecc135c0316e2f3f7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "e279b4399037076c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/e279b4399037076c",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect",
+      "time" : {
+        "start" : 1611473971495,
+        "stop" : 1611473976578,
+        "duration" : 5083
+      }
+    }, {
+      "uid" : "e9a0e0117cb14f95",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/e9a0e0117cb14f95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997260389,
+        "stop" : 1606997262690,
+        "duration" : 2301
+      }
+    }, {
+      "uid" : "e7a8e3bbe5f18450",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/e7a8e3bbe5f18450",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997260389,
+        "stop" : 1606997262690,
+        "duration" : 2301
+      }
+    }, {
+      "uid" : "80c5c3b34cd2a2b6",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/80c5c3b34cd2a2b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010164169,
+        "stop" : 1605010166629,
+        "duration" : 2460
+      }
+    }, {
+      "uid" : "885a74e63d1f2775",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/885a74e63d1f2775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604563834722,
+        "stop" : 1604563836947,
+        "duration" : 2225
+      }
+    }, {
+      "uid" : "7873ee8234534eac",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/7873ee8234534eac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795850800,
+        "stop" : 1601795853412,
+        "duration" : 2612
+      }
+    }, {
+      "uid" : "9240887abe18ecb9",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/9240887abe18ecb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793578497,
+        "stop" : 1601793582326,
+        "duration" : 3829
+      }
+    }, {
+      "uid" : "1b12403ffd75b00b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/1b12403ffd75b00b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535684814,
+        "stop" : 1601535686966,
+        "duration" : 2152
+      }
+    }, {
+      "uid" : "92a817f5b7b3c019",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/92a817f5b7b3c019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535684814,
+        "stop" : 1601535686966,
+        "duration" : 2152
+      }
+    }, {
+      "uid" : "9dd70f6c6d138ce3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/9dd70f6c6d138ce3",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1601534807982,
+        "stop" : 1601534808385,
+        "duration" : 403
+      }
+    } ]
+  },
+  "9c63530e2a4bccad75872e6b914d954c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "86a36b51bea34b8a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/86a36b51bea34b8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473881157,
+        "stop" : 1611473882162,
+        "duration" : 1005
+      }
+    }, {
+      "uid" : "448daa2811460a47",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/448daa2811460a47",
+      "status" : "failed",
+      "statusDetails" : "images are not the same did not expect to find [false] but found [true]",
+      "time" : {
+        "start" : 1611471554675,
+        "stop" : 1611471556117,
+        "duration" : 1442
+      }
+    }, {
+      "uid" : "66421e6ebd023c4b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/66421e6ebd023c4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996806474,
+        "stop" : 1606996807531,
+        "duration" : 1057
+      }
+    }, {
+      "uid" : "2f8e6c29d19b381e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/2f8e6c29d19b381e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009987655,
+        "stop" : 1605009988580,
+        "duration" : 925
+      }
+    }, {
+      "uid" : "f4ad1910601df3eb",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/f4ad1910601df3eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795481316,
+        "stop" : 1601795482377,
+        "duration" : 1061
+      }
+    }, {
+      "uid" : "7dfbeaf9c1e5b5f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/7dfbeaf9c1e5b5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535837250,
+        "stop" : 1601535838226,
+        "duration" : 976
+      }
+    }, {
+      "uid" : "f74e5640b846b989",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/f74e5640b846b989",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535837250,
+        "stop" : 1601535838226,
+        "duration" : 976
+      }
+    }, {
+      "uid" : "835a24d9d1340d4a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/835a24d9d1340d4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534887593,
+        "stop" : 1601534888531,
+        "duration" : 938
+      }
+    }, {
+      "uid" : "692407d555e8df79",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/692407d555e8df79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534269582,
+        "stop" : 1601534270551,
+        "duration" : 969
+      }
+    }, {
+      "uid" : "54f74debd919b4a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/54f74debd919b4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534086649,
+        "stop" : 1601534087643,
+        "duration" : 994
+      }
+    } ]
+  },
+  "75b4907e04bd8bbc7ae6e3e44da3786a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "92d246ac7ce48003",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/92d246ac7ce48003",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474362205,
+        "stop" : 1611474362744,
+        "duration" : 539
+      }
+    }, {
+      "uid" : "657cfd5ad4d2b2fe",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/657cfd5ad4d2b2fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474082264,
+        "stop" : 1611474082810,
+        "duration" : 546
+      }
+    }, {
+      "uid" : "7ea6ed5a47aead1a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/7ea6ed5a47aead1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471585949,
+        "stop" : 1611471586618,
+        "duration" : 669
+      }
+    }, {
+      "uid" : "8c9be3058d4dfb45",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/8c9be3058d4dfb45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997310031,
+        "stop" : 1606997310510,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "8413d963250c6bed",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/8413d963250c6bed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010202937,
+        "stop" : 1605010203488,
+        "duration" : 551
+      }
+    }, {
+      "uid" : "7dca1eb51fd78da3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/7dca1eb51fd78da3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604564146871,
+        "stop" : 1604564147401,
+        "duration" : 530
+      }
+    }, {
+      "uid" : "8a5ff1a6340f641c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/8a5ff1a6340f641c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795933881,
+        "stop" : 1601795934590,
+        "duration" : 709
+      }
+    }, {
+      "uid" : "c24e8590e3603f88",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/c24e8590e3603f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793631597,
+        "stop" : 1601793632306,
+        "duration" : 709
+      }
+    }, {
+      "uid" : "4de9f34414a483bd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/4de9f34414a483bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540882485,
+        "stop" : 1601540882983,
+        "duration" : 498
+      }
+    } ]
+  },
+  "a8edd9aeb47f1800a521728dd3533e6f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cbf0c0a72dd7ee4",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/5cbf0c0a72dd7ee4",
+      "status" : "failed",
+      "statusDetails" : "images are not the same did not expect to find [false] but found [true]",
+      "time" : {
+        "start" : 1601462064017,
+        "stop" : 1601462065297,
+        "duration" : 1280
+      }
+    } ]
+  },
+  "9074f2fe37fdd32421e55d5fda9aa4d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27c5cbbf35c750d3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/27c5cbbf35c750d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540152056,
+        "stop" : 1601540161321,
+        "duration" : 9265
+      }
+    } ]
+  },
+  "279c6716081ce88ff0aef2d288c2ea7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "f1f8c71e04531b82",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/f1f8c71e04531b82",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect",
+      "time" : {
+        "start" : 1611473976702,
+        "stop" : 1611473980904,
+        "duration" : 4202
+      }
+    }, {
+      "uid" : "122aa9404cdf94d0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/122aa9404cdf94d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997262755,
+        "stop" : 1606997263165,
+        "duration" : 410
+      }
+    }, {
+      "uid" : "5880e7e23a08e791",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/5880e7e23a08e791",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997262755,
+        "stop" : 1606997263165,
+        "duration" : 410
+      }
+    }, {
+      "uid" : "fa24c3c9036a367d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/fa24c3c9036a367d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010166735,
+        "stop" : 1605010167123,
+        "duration" : 388
+      }
+    }, {
+      "uid" : "46c1cd6488f8b7c0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/46c1cd6488f8b7c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604563837029,
+        "stop" : 1604563837418,
+        "duration" : 389
+      }
+    }, {
+      "uid" : "b47a59470d2ac404",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/b47a59470d2ac404",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795853521,
+        "stop" : 1601795853847,
+        "duration" : 326
+      }
+    }, {
+      "uid" : "643db2e7c2c59ef2",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/643db2e7c2c59ef2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793582527,
+        "stop" : 1601793583005,
+        "duration" : 478
+      }
+    }, {
+      "uid" : "950e5f8efa2afe3e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/950e5f8efa2afe3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687081,
+        "stop" : 1601535687415,
+        "duration" : 334
+      }
+    }, {
+      "uid" : "2f8a0354c5fb5d89",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/2f8a0354c5fb5d89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687081,
+        "stop" : 1601535687415,
+        "duration" : 334
+      }
+    }, {
+      "uid" : "bfad0cb97b255363",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/bfad0cb97b255363",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1601534728396,
+        "stop" : 1601534728808,
+        "duration" : 412
+      }
+    } ]
+  },
+  "9b675ed89f0355b8829a4194c91157b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "5f75c34c52817071",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/9/allure/#testresult/5f75c34c52817071",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474361426,
+        "stop" : 1611474361899,
+        "duration" : 473
+      }
+    }, {
+      "uid" : "7e25f27e5166f618",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/7e25f27e5166f618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611474081409,
+        "stop" : 1611474081952,
+        "duration" : 543
+      }
+    }, {
+      "uid" : "35cede584806b961",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/35cede584806b961",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471585105,
+        "stop" : 1611471585627,
+        "duration" : 522
+      }
+    }, {
+      "uid" : "ef0cb59a77341793",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/ef0cb59a77341793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997309271,
+        "stop" : 1606997309716,
+        "duration" : 445
+      }
+    }, {
+      "uid" : "22fe636e37d3a894",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/22fe636e37d3a894",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010202145,
+        "stop" : 1605010202634,
+        "duration" : 489
+      }
+    }, {
+      "uid" : "62be713bda2a6f5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/62be713bda2a6f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604564145910,
+        "stop" : 1604564146503,
+        "duration" : 593
+      }
+    }, {
+      "uid" : "49a7fe2b03ca4ae",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/49a7fe2b03ca4ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795933093,
+        "stop" : 1601795933478,
+        "duration" : 385
+      }
+    }, {
+      "uid" : "fadc0f8f386dc07",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/fadc0f8f386dc07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793630520,
+        "stop" : 1601793631136,
+        "duration" : 616
+      }
+    }, {
+      "uid" : "ef13db3d39649bf",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/ef13db3d39649bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540881846,
+        "stop" : 1601540882233,
+        "duration" : 387
+      }
+    } ]
+  },
+  "20bf9460d379ab534ae2b43e167a1498" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "691cac6033e8c91a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/691cac6033e8c91a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601462054021,
+        "stop" : 1601462056251,
+        "duration" : 2230
+      }
+    } ]
+  },
+  "711558cc22c87c0af28de845c4f373c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2217b5d55f261f9d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/2217b5d55f261f9d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1611472420639,
+        "stop" : 1611472420644,
+        "duration" : 5
+      }
+    } ]
+  },
+  "3e6dca35357062ac25209a5b8319ec4a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "cf34b775df36071",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/cf34b775df36071",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect",
+      "time" : {
+        "start" : 1611473980918,
+        "stop" : 1611473985035,
+        "duration" : 4117
+      }
+    }, {
+      "uid" : "ed33b7bb3b43298c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/ed33b7bb3b43298c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997263172,
+        "stop" : 1606997263377,
+        "duration" : 205
+      }
+    }, {
+      "uid" : "14c22b8739ed2edd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/14c22b8739ed2edd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997263172,
+        "stop" : 1606997263377,
+        "duration" : 205
+      }
+    }, {
+      "uid" : "5df6a29e34fb9965",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/5df6a29e34fb9965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010167131,
+        "stop" : 1605010167351,
+        "duration" : 220
+      }
+    }, {
+      "uid" : "dea04ed69f9f1e24",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/dea04ed69f9f1e24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604563837426,
+        "stop" : 1604563837680,
+        "duration" : 254
+      }
+    }, {
+      "uid" : "9775aa9ba79df893",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/9775aa9ba79df893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795853857,
+        "stop" : 1601795854038,
+        "duration" : 181
+      }
+    }, {
+      "uid" : "b2cbe10ba43cc224",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/b2cbe10ba43cc224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793583020,
+        "stop" : 1601793583328,
+        "duration" : 308
+      }
+    }, {
+      "uid" : "d1350ea4418713d7",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/d1350ea4418713d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687415,
+        "stop" : 1601535687614,
+        "duration" : 199
+      }
+    }, {
+      "uid" : "52c8dd9aa1ac09ab",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/52c8dd9aa1ac09ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687415,
+        "stop" : 1601535687614,
+        "duration" : 199
+      }
+    }, {
+      "uid" : "4160a8539676975a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/4160a8539676975a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1601534728886,
+        "stop" : 1601534729309,
+        "duration" : 423
+      }
+    } ]
+  },
+  "96af9952d24ff8c95b3829412b119662" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "982980eec7130f7a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/982980eec7130f7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473867553,
+        "stop" : 1611473868535,
+        "duration" : 982
+      }
+    }, {
+      "uid" : "1e9e61c5bc0012d5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/1e9e61c5bc0012d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471541254,
+        "stop" : 1611471542264,
+        "duration" : 1010
+      }
+    }, {
+      "uid" : "58b98fc88585624",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/58b98fc88585624",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996792952,
+        "stop" : 1606996793924,
+        "duration" : 972
+      }
+    }, {
+      "uid" : "aa6dbaa5cbc6aa84",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/aa6dbaa5cbc6aa84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009974057,
+        "stop" : 1605009974999,
+        "duration" : 942
+      }
+    }, {
+      "uid" : "46470fd4036203cc",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/46470fd4036203cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795468214,
+        "stop" : 1601795469040,
+        "duration" : 826
+      }
+    }, {
+      "uid" : "bff628664d986005",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/bff628664d986005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535824278,
+        "stop" : 1601535825063,
+        "duration" : 785
+      }
+    }, {
+      "uid" : "30e75371b04fef97",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/30e75371b04fef97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535824278,
+        "stop" : 1601535825063,
+        "duration" : 785
+      }
+    }, {
+      "uid" : "b397ed7f5968d1fd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/b397ed7f5968d1fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534874725,
+        "stop" : 1601534875429,
+        "duration" : 704
+      }
+    }, {
+      "uid" : "e59554d36db9cd3b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/e59554d36db9cd3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534256593,
+        "stop" : 1601534257317,
+        "duration" : 724
+      }
+    }, {
+      "uid" : "d78557c3f7d20201",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/d78557c3f7d20201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534073728,
+        "stop" : 1601534074489,
+        "duration" : 761
+      }
+    }, {
+      "uid" : "8b20abdcebc771c8",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/13/allure/#testresult/8b20abdcebc771c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601460323013,
+        "stop" : 1601460323709,
+        "duration" : 696
+      }
+    }, {
+      "uid" : "44333b569cf46caa",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/12/allure/#testresult/44333b569cf46caa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454092391,
+        "stop" : 1601454093188,
+        "duration" : 797
+      }
+    }, {
+      "uid" : "863f4f1131de572d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/11/allure/#testresult/863f4f1131de572d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454000236,
+        "stop" : 1601454001056,
+        "duration" : 820
+      }
+    }, {
+      "uid" : "417bffa93baeaedc",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/10/allure/#testresult/417bffa93baeaedc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453863273,
+        "stop" : 1601453864237,
+        "duration" : 964
+      }
+    } ]
+  },
+  "b4bf736db8838a5dac10b34e239b3896" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da97355e2b73be9f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/da97355e2b73be9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601462057165,
+        "stop" : 1601462057767,
+        "duration" : 602
+      }
+    } ]
+  },
+  "fd9f32acfdac229d3101013f8978ff8c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "8ff135063399c7ee",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/8ff135063399c7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473869536,
+        "stop" : 1611473880225,
+        "duration" : 10689
+      }
+    }, {
+      "uid" : "33b7a0fcbed97965",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/33b7a0fcbed97965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471543260,
+        "stop" : 1611471553936,
+        "duration" : 10676
+      }
+    }, {
+      "uid" : "c0c31a05b65c68b0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/c0c31a05b65c68b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996794906,
+        "stop" : 1606996805587,
+        "duration" : 10681
+      }
+    }, {
+      "uid" : "1b0edd26bf0ac85d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/1b0edd26bf0ac85d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009976152,
+        "stop" : 1605009986782,
+        "duration" : 10630
+      }
+    }, {
+      "uid" : "d459cdb8c41d4231",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/d459cdb8c41d4231",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795469937,
+        "stop" : 1601795480471,
+        "duration" : 10534
+      }
+    }, {
+      "uid" : "e034e97e45f85877",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/e034e97e45f85877",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535825895,
+        "stop" : 1601535836419,
+        "duration" : 10524
+      }
+    }, {
+      "uid" : "2a705c4d466d515e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/2a705c4d466d515e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535825895,
+        "stop" : 1601535836419,
+        "duration" : 10524
+      }
+    }, {
+      "uid" : "95d4691e835241f7",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/95d4691e835241f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534876214,
+        "stop" : 1601534886747,
+        "duration" : 10533
+      }
+    }, {
+      "uid" : "e60c1c725f2c741a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/e60c1c725f2c741a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534258162,
+        "stop" : 1601534268700,
+        "duration" : 10538
+      }
+    }, {
+      "uid" : "8ca9186ba780a991",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/8ca9186ba780a991",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534075393,
+        "stop" : 1601534085948,
+        "duration" : 10555
+      }
+    }, {
+      "uid" : "1633bde241fc78e1",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/13/allure/#testresult/1633bde241fc78e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601460324585,
+        "stop" : 1601460335125,
+        "duration" : 10540
+      }
+    }, {
+      "uid" : "ea18646ebfbaece2",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/12/allure/#testresult/ea18646ebfbaece2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454094048,
+        "stop" : 1601454104663,
+        "duration" : 10615
+      }
+    }, {
+      "uid" : "83831fb2faa747e1",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/11/allure/#testresult/83831fb2faa747e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454001976,
+        "stop" : 1601454012591,
+        "duration" : 10615
+      }
+    }, {
+      "uid" : "68b9e4d486a5d8d4",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/10/allure/#testresult/68b9e4d486a5d8d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453865169,
+        "stop" : 1601453875852,
+        "duration" : 10683
+      }
+    } ]
+  },
+  "43d770b11807d06dff45104d6c33835c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1de1a2abc38017f3",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/1de1a2abc38017f3",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1611472420660,
+        "stop" : 1611472420660,
+        "duration" : 0
+      }
+    } ]
+  },
+  "beb630470296c2609156d1781034bd72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "276bebf8c873d46d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/276bebf8c873d46d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473865459,
+        "stop" : 1611473867284,
+        "duration" : 1825
+      }
+    }, {
+      "uid" : "1c1bdf06af87f618",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/1c1bdf06af87f618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471539038,
+        "stop" : 1611471540918,
+        "duration" : 1880
+      }
+    }, {
+      "uid" : "c356a0e6c3032005",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/c356a0e6c3032005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996790758,
+        "stop" : 1606996792655,
+        "duration" : 1897
+      }
+    }, {
+      "uid" : "fde66c9d113cb6b6",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/fde66c9d113cb6b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009971765,
+        "stop" : 1605009973791,
+        "duration" : 2026
+      }
+    }, {
+      "uid" : "f0be997c1c5c15aa",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/f0be997c1c5c15aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795463704,
+        "stop" : 1601795467899,
+        "duration" : 4195
+      }
+    }, {
+      "uid" : "38539b40b1372337",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/38539b40b1372337",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535822361,
+        "stop" : 1601535824058,
+        "duration" : 1697
+      }
+    }, {
+      "uid" : "5b682e5c90fb0f26",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/5b682e5c90fb0f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535822361,
+        "stop" : 1601535824058,
+        "duration" : 1697
+      }
+    }, {
+      "uid" : "7b745822a439d80a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/7b745822a439d80a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534872848,
+        "stop" : 1601534874533,
+        "duration" : 1685
+      }
+    }, {
+      "uid" : "84a430645db8a9a0",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/84a430645db8a9a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534254450,
+        "stop" : 1601534256271,
+        "duration" : 1821
+      }
+    }, {
+      "uid" : "b9eda75c169956a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/b9eda75c169956a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534071608,
+        "stop" : 1601534073562,
+        "duration" : 1954
+      }
+    }, {
+      "uid" : "7eaeb7fe4d3da05b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/13/allure/#testresult/7eaeb7fe4d3da05b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601460316925,
+        "stop" : 1601460322837,
+        "duration" : 5912
+      }
+    }, {
+      "uid" : "23bb6e95947f6142",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/12/allure/#testresult/23bb6e95947f6142",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454089868,
+        "stop" : 1601454092196,
+        "duration" : 2328
+      }
+    }, {
+      "uid" : "89ccbd2424e0a864",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/11/allure/#testresult/89ccbd2424e0a864",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453998007,
+        "stop" : 1601454000044,
+        "duration" : 2037
+      }
+    }, {
+      "uid" : "a28aef5ceec9a444",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/10/allure/#testresult/a28aef5ceec9a444",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453856925,
+        "stop" : 1601453863021,
+        "duration" : 6096
+      }
+    } ]
+  },
+  "ec1e2ef1112d7c8e6250718863e9ab1b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b94826ec05efedf4",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/b94826ec05efedf4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1611472420660,
+        "stop" : 1611472420660,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d4c191bb3343d79a1e5e4432dfc3a18a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "833bafbf37e390c",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/833bafbf37e390c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471464063,
+        "stop" : 1611471495993,
+        "duration" : 31930
+      }
+    }, {
+      "uid" : "8c5dc006af0cf54f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/8c5dc006af0cf54f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471464063,
+        "stop" : 1611471495993,
+        "duration" : 31930
+      }
+    }, {
+      "uid" : "1e1b83547ca72836",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/1e1b83547ca72836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997003305,
+        "stop" : 1606997036040,
+        "duration" : 32735
+      }
+    }, {
+      "uid" : "292c020f615f23fe",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/292c020f615f23fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010103702,
+        "stop" : 1605010136452,
+        "duration" : 32750
+      }
+    }, {
+      "uid" : "fb2aacb4821ce727",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/fb2aacb4821ce727",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795727654,
+        "stop" : 1601795759627,
+        "duration" : 31973
+      }
+    }, {
+      "uid" : "525620fd81e5eb36",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/525620fd81e5eb36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540355060,
+        "stop" : 1601540387382,
+        "duration" : 32322
+      }
+    }, {
+      "uid" : "f63eaae8e488e55d",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/f63eaae8e488e55d",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526174,
+        "stop" : 1601539526174,
+        "duration" : 0
+      }
+    } ]
+  },
+  "792290be7514801624cb1dfcc477eb4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "9f5cfd1a0c29b1fa",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/9f5cfd1a0c29b1fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471419302,
+        "stop" : 1611471428919,
+        "duration" : 9617
+      }
+    }, {
+      "uid" : "e03eed5e589de3fd",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/e03eed5e589de3fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471419302,
+        "stop" : 1611471428919,
+        "duration" : 9617
+      }
+    }, {
+      "uid" : "82cfeeb3730b8aab",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/82cfeeb3730b8aab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996956681,
+        "stop" : 1606996966842,
+        "duration" : 10161
+      }
+    }, {
+      "uid" : "f50d356e5d120b7",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/f50d356e5d120b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010056557,
+        "stop" : 1605010067540,
+        "duration" : 10983
+      }
+    }, {
+      "uid" : "f8bc8673a9a6f832",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/f8bc8673a9a6f832",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795678039,
+        "stop" : 1601795688291,
+        "duration" : 10252
+      }
+    }, {
+      "uid" : "e61cbb9f8a6536c5",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/e61cbb9f8a6536c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540312999,
+        "stop" : 1601540322113,
+        "duration" : 9114
+      }
+    }, {
+      "uid" : "c27bd72ac793f1f9",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/c27bd72ac793f1f9",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526139,
+        "stop" : 1601539526139,
+        "duration" : 0
+      }
+    } ]
+  },
+  "82c4a0ade3a841e276a2b2d23d7371e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c2d325540f8f647",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/9c2d325540f8f647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601462063397,
+        "stop" : 1601462063952,
+        "duration" : 555
+      }
+    } ]
+  },
+  "d11bca711b9a5b75343ec6cdb7918d2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5972be7fc7a63813",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/5972be7fc7a63813",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method StartSession but has not been marked @Optional or defined\nin C:\\Users\\liorh\\.IdeaIC2019.3\\system\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1611472420660,
+        "stop" : 1611472420660,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ceda2b3b91e4c691055a9f995bc062de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8154e4aa6327a18",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/c8154e4aa6327a18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540208488,
+        "stop" : 1601540239583,
+        "duration" : 31095
+      }
+    } ]
+  },
+  "b379ba4af2ebc6d1f65c8197c9a9c562" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ca389e56aac14f2",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/ca389e56aac14f2",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539525992,
+        "stop" : 1601539525992,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "31375baaf345b53b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/31375baaf345b53b",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539525992,
+        "stop" : 1601539525992,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d52ca033837d2bc664ca86b2fac9c32e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e29e2aa45768f05",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/2e29e2aa45768f05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540193543,
+        "stop" : 1601540208484,
+        "duration" : 14941
+      }
+    } ]
+  },
+  "9aa42400363982e9720180ec7b009d76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "2172ced607fcfeab",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/2172ced607fcfeab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471405740,
+        "stop" : 1611471419294,
+        "duration" : 13554
+      }
+    }, {
+      "uid" : "38e42473d8843b2e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/38e42473d8843b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471405740,
+        "stop" : 1611471419294,
+        "duration" : 13554
+      }
+    }, {
+      "uid" : "ab1b8439521494be",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/ab1b8439521494be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996942328,
+        "stop" : 1606996956673,
+        "duration" : 14345
+      }
+    }, {
+      "uid" : "10ecb17c0cf15dae",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/10ecb17c0cf15dae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010043596,
+        "stop" : 1605010056547,
+        "duration" : 12951
+      }
+    }, {
+      "uid" : "594e9adae909310a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/594e9adae909310a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795666755,
+        "stop" : 1601795678028,
+        "duration" : 11273
+      }
+    }, {
+      "uid" : "e2f962d69a7a3211",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/e2f962d69a7a3211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601540303439,
+        "stop" : 1601540312990,
+        "duration" : 9551
+      }
+    }, {
+      "uid" : "fabec9388d228422",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/fabec9388d228422",
+      "status" : "skipped",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539526139,
+        "stop" : 1601539526139,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb4a93d1a9656f43c3649a09b49d4c9e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "118ec3f5b086eb43",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/118ec3f5b086eb43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611473880503,
+        "stop" : 1611473881051,
+        "duration" : 548
+      }
+    }, {
+      "uid" : "dc49d13c3ad9df19",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/dc49d13c3ad9df19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611471554058,
+        "stop" : 1611471554585,
+        "duration" : 527
+      }
+    }, {
+      "uid" : "d7fbac1ba8d76519",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/d7fbac1ba8d76519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606996805703,
+        "stop" : 1606996806367,
+        "duration" : 664
+      }
+    }, {
+      "uid" : "85094c1d8f254e2f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/85094c1d8f254e2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605009986861,
+        "stop" : 1605009987553,
+        "duration" : 692
+      }
+    }, {
+      "uid" : "4a32c8dcdfce5713",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/4a32c8dcdfce5713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795480579,
+        "stop" : 1601795481197,
+        "duration" : 618
+      }
+    }, {
+      "uid" : "cbeb08ca576b3beb",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/cbeb08ca576b3beb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535836509,
+        "stop" : 1601535837156,
+        "duration" : 647
+      }
+    }, {
+      "uid" : "855876778dcaa456",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/855876778dcaa456",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535836509,
+        "stop" : 1601535837156,
+        "duration" : 647
+      }
+    }, {
+      "uid" : "6757fce2b8d35386",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/6757fce2b8d35386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534886841,
+        "stop" : 1601534887516,
+        "duration" : 675
+      }
+    }, {
+      "uid" : "a0633ac3fc6078ae",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/15/allure/#testresult/a0633ac3fc6078ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534268792,
+        "stop" : 1601534269481,
+        "duration" : 689
+      }
+    }, {
+      "uid" : "e7a7e50fa43f679b",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/14/allure/#testresult/e7a7e50fa43f679b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601534086030,
+        "stop" : 1601534086579,
+        "duration" : 549
+      }
+    }, {
+      "uid" : "19324aa0a66260a4",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/13/allure/#testresult/19324aa0a66260a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601460335289,
+        "stop" : 1601460335915,
+        "duration" : 626
+      }
+    }, {
+      "uid" : "8a101100d03a8f71",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/12/allure/#testresult/8a101100d03a8f71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454104751,
+        "stop" : 1601454105513,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "c0741291c9a4f22f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/11/allure/#testresult/c0741291c9a4f22f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601454012676,
+        "stop" : 1601454013339,
+        "duration" : 663
+      }
+    }, {
+      "uid" : "803271d5751f802f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/10/allure/#testresult/803271d5751f802f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601453876033,
+        "stop" : 1601453876713,
+        "duration" : 680
+      }
+    } ]
+  },
+  "cec75176a12803f3b46985c1432463e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "97d8ac8584c3773a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/8/allure/#testresult/97d8ac8584c3773a",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect",
+      "time" : {
+        "start" : 1611473985051,
+        "stop" : 1611473989159,
+        "duration" : 4108
+      }
+    }, {
+      "uid" : "11605d7270812939",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/7/allure/#testresult/11605d7270812939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997263384,
+        "stop" : 1606997263507,
+        "duration" : 123
+      }
+    }, {
+      "uid" : "2ac3487e8955df39",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/6/allure/#testresult/2ac3487e8955df39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606997263384,
+        "stop" : 1606997263507,
+        "duration" : 123
+      }
+    }, {
+      "uid" : "4572da7cccf8177a",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/5/allure/#testresult/4572da7cccf8177a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605010167358,
+        "stop" : 1605010167462,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "6dfce8963185a686",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/4/allure/#testresult/6dfce8963185a686",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604563837695,
+        "stop" : 1604563837942,
+        "duration" : 247
+      }
+    }, {
+      "uid" : "b383d8f3bce8f0e",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/3/allure/#testresult/b383d8f3bce8f0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601795854049,
+        "stop" : 1601795854122,
+        "duration" : 73
+      }
+    }, {
+      "uid" : "4d9dc623a3d57cf2",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/2/allure/#testresult/4d9dc623a3d57cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601793583344,
+        "stop" : 1601793583448,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "820142e9be6648c2",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/820142e9be6648c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687630,
+        "stop" : 1601535687782,
+        "duration" : 152
+      }
+    }, {
+      "uid" : "a24d43b907cbc663",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Mobile/1/allure/#testresult/a24d43b907cbc663",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535687630,
+        "stop" : 1601535687782,
+        "duration" : 152
+      }
+    }, {
+      "uid" : "c504dbe60977befc",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Automation%20Project%20-%20Web/16/allure/#testresult/c504dbe60977befc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1601534729382,
+        "stop" : 1601534729788,
+        "duration" : 406
+      }
+    } ]
+  },
+  "be12b9e0d92d48909874da66dcccef59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f22d5ec19513212f",
+      "reportUrl" : "http://localhost:9090/job/My%20Full%20Stack%20Test%20Autmation%20-%20Electron/1/allure/#testresult/f22d5ec19513212f",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1601539988982,
+        "stop" : 1601539988998,
+        "duration" : 16
+      }
+    } ]
+  }
+}

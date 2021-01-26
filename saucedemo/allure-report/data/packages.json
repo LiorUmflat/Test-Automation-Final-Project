@@ -1,0 +1,298 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SanityTestCases",
+    "children" : [ {
+      "name" : "saucedemoWeb",
+      "children" : [ {
+        "name" : "test01_login",
+        "uid" : "ff459a138949b929",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565509195,
+          "stop" : 1611565511588,
+          "duration" : 2393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test02_sortProductsByLowToHigh",
+        "uid" : "39bece8aeccb6734",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565511947,
+          "stop" : 1611565513078,
+          "duration" : 1131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test03_addItemToChart",
+        "uid" : "70e54e5346aa0dad",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565513228,
+          "stop" : 1611565514052,
+          "duration" : 824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test04_addItemAndRemoveItFromCartPage",
+        "uid" : "ef93a64667e994c2",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565514131,
+          "stop" : 1611565524732,
+          "duration" : 10601
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test05_logout",
+        "uid" : "6325d7379919c80c",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565525113,
+          "stop" : 1611565525881,
+          "duration" : 768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test06_verifyRobotImage",
+        "uid" : "bd251b4a21fac296",
+        "parentUid" : "733f6735e9924d3878b004c52c44e027",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565525949,
+          "stop" : 1611565526971,
+          "duration" : 1022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "733f6735e9924d3878b004c52c44e027"
+    }, {
+      "name" : "SpotifyMobile",
+      "children" : [ {
+        "name" : "test01_login",
+        "uid" : "abb5c2537cbb0da7",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565820029,
+          "stop" : 1611565831412,
+          "duration" : 11383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test02_searchSongAndPlayIt",
+        "uid" : "e0d8ca11c88f75ea",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565831540,
+          "stop" : 1611565843616,
+          "duration" : 12076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test03_pausePlayingSong",
+        "uid" : "95ee221079042779",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565843631,
+          "stop" : 1611565853745,
+          "duration" : 10114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test04_addSongToFavoritesFromPlayer",
+        "uid" : "473bfc38cc3779d6",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565853750,
+          "stop" : 1611565871209,
+          "duration" : 17459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test05_removeSongsFromFavorites",
+        "uid" : "8cf365bcdd7a4a0f",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565871217,
+          "stop" : 1611565889291,
+          "duration" : 18074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      }, {
+        "name" : "test06_logout",
+        "uid" : "c40a3c0a01adad78",
+        "parentUid" : "7b1b59ce86ce9b9757ea0207c74c3215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565889296,
+          "stop" : 1611565921083,
+          "duration" : 31787
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "7b1b59ce86ce9b9757ea0207c74c3215"
+    }, {
+      "name" : "StudentsAPI",
+      "children" : [ {
+        "name" : "test_01_GetStudents",
+        "uid" : "fdba2fbce0a8c8dc",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565938271,
+          "stop" : 1611565940425,
+          "duration" : 2154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_02_AddStudent",
+        "uid" : "c873c4b3723311be",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565940517,
+          "stop" : 1611565940920,
+          "duration" : 403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_03_updateStudent",
+        "uid" : "4df2b06a74c8333c",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565940929,
+          "stop" : 1611565941187,
+          "duration" : 258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test_04_deleteStudent",
+        "uid" : "232e387f80bf7d8",
+        "parentUid" : "e6957e40758b1512e3c5baa620e491bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565941194,
+          "stop" : 1611565941329,
+          "duration" : 135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "e6957e40758b1512e3c5baa620e491bb"
+    }, {
+      "name" : "TodolistElectron",
+      "children" : [ {
+        "name" : "test01_AddNewTask",
+        "uid" : "5a3317ed9301ec80",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565965495,
+          "stop" : 1611565966147,
+          "duration" : 652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test02_AddNewTask",
+        "uid" : "70e9b6037a7880b5",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565966444,
+          "stop" : 1611565967035,
+          "duration" : 591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test03_markTaskAsCompleted",
+        "uid" : "61caadc2ed5f0065",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565967272,
+          "stop" : 1611565968262,
+          "duration" : 990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test04_markAllTaskAsCompleted",
+        "uid" : "ca392abbf6c21f45",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565968582,
+          "stop" : 1611565969469,
+          "duration" : 887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      }, {
+        "name" : "test05_deleteTaskFromTheList",
+        "uid" : "93df39f6cf5b1b71",
+        "parentUid" : "64f67903fedf9dc4e6e743b9715e2b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611565969793,
+          "stop" : 1611565970912,
+          "duration" : 1119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "64f67903fedf9dc4e6e743b9715e2b78"
+    } ],
+    "uid" : "cd3460e1b89d9d9aeb486f88cc6b4dc0"
+  } ]
+}

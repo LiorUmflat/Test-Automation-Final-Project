@@ -1,0 +1,314 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Web Tests",
+      "children" : [ {
+        "name" : "SanityTestCases.saucedemoWeb",
+        "children" : [ {
+          "name" : "login to the site",
+          "uid" : "ff459a138949b929",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565509195,
+            "stop" : 1611565511588,
+            "duration" : 2393
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "sort products from low to high",
+          "uid" : "39bece8aeccb6734",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565511947,
+            "stop" : 1611565513078,
+            "duration" : 1131
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "add item to cart",
+          "uid" : "70e54e5346aa0dad",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565513228,
+            "stop" : 1611565514052,
+            "duration" : 824
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "add item and remove it from cart page",
+          "uid" : "ef93a64667e994c2",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565514131,
+            "stop" : 1611565524732,
+            "duration" : 10601
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "logout of the site",
+          "uid" : "6325d7379919c80c",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565525113,
+            "stop" : 1611565525881,
+            "duration" : 768
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "verify robot image",
+          "uid" : "bd251b4a21fac296",
+          "parentUid" : "542913937aa0ec2549f567e1c4c5fb25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565525949,
+            "stop" : 1611565526971,
+            "duration" : 1022
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "542913937aa0ec2549f567e1c4c5fb25"
+      } ],
+      "uid" : "021ae6ebaf24613400055f41a8f6b406"
+    }, {
+      "name" : "Mobile Tests",
+      "children" : [ {
+        "name" : "SanityTestCases.SpotifyMobile",
+        "children" : [ {
+          "name" : "login to Spotify",
+          "uid" : "abb5c2537cbb0da7",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565820029,
+            "stop" : 1611565831412,
+            "duration" : 11383
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "search song and play it",
+          "uid" : "e0d8ca11c88f75ea",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565831540,
+            "stop" : 1611565843616,
+            "duration" : 12076
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "pause playing song",
+          "uid" : "95ee221079042779",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565843631,
+            "stop" : 1611565853745,
+            "duration" : 10114
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "add song to favorites from player section",
+          "uid" : "473bfc38cc3779d6",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565853750,
+            "stop" : 1611565871209,
+            "duration" : 17459
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "remove songs from favorites in player section",
+          "uid" : "8cf365bcdd7a4a0f",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565871217,
+            "stop" : 1611565889291,
+            "duration" : 18074
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "logout from the app",
+          "uid" : "c40a3c0a01adad78",
+          "parentUid" : "37152443b6ae5241d9152f924ca123e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565889296,
+            "stop" : 1611565921083,
+            "duration" : 31787
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        } ],
+        "uid" : "37152443b6ae5241d9152f924ca123e5"
+      } ],
+      "uid" : "8c0e091f779f0cece321e27da4ce33f3"
+    }, {
+      "name" : "API Tests",
+      "children" : [ {
+        "name" : "SanityTestCases.StudentsAPI",
+        "children" : [ {
+          "name" : "Get The Students from the server",
+          "uid" : "fdba2fbce0a8c8dc",
+          "parentUid" : "ae4f4d186a6c9889c8321db99cc8faf8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565938271,
+            "stop" : 1611565940425,
+            "duration" : 2154
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Add new student to the server",
+          "uid" : "c873c4b3723311be",
+          "parentUid" : "ae4f4d186a6c9889c8321db99cc8faf8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565940517,
+            "stop" : 1611565940920,
+            "duration" : 403
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "update the last added student in the server",
+          "uid" : "4df2b06a74c8333c",
+          "parentUid" : "ae4f4d186a6c9889c8321db99cc8faf8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565940929,
+            "stop" : 1611565941187,
+            "duration" : 258
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "delete the last added student from the server",
+          "uid" : "232e387f80bf7d8",
+          "parentUid" : "ae4f4d186a6c9889c8321db99cc8faf8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565941194,
+            "stop" : 1611565941329,
+            "duration" : 135
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "ae4f4d186a6c9889c8321db99cc8faf8"
+      } ],
+      "uid" : "4ed70f54fda3286e80a05bd83e56a3ad"
+    }, {
+      "name" : "Electron Tests",
+      "children" : [ {
+        "name" : "SanityTestCases.TodolistElectron",
+        "children" : [ {
+          "name" : "Test 01: add new task",
+          "uid" : "5a3317ed9301ec80",
+          "parentUid" : "5ab0f6c9ce784c9ed673d9de5220cc77",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565965495,
+            "stop" : 1611565966147,
+            "duration" : 652
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        }, {
+          "name" : "Test 02: add 2 new tasks",
+          "uid" : "70e9b6037a7880b5",
+          "parentUid" : "5ab0f6c9ce784c9ed673d9de5220cc77",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565966444,
+            "stop" : 1611565967035,
+            "duration" : 591
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        }, {
+          "name" : "Test 03: mark task as completed",
+          "uid" : "61caadc2ed5f0065",
+          "parentUid" : "5ab0f6c9ce784c9ed673d9de5220cc77",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565967272,
+            "stop" : 1611565968262,
+            "duration" : 990
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        }, {
+          "name" : "Test 04: mark all task as completed",
+          "uid" : "ca392abbf6c21f45",
+          "parentUid" : "5ab0f6c9ce784c9ed673d9de5220cc77",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565968582,
+            "stop" : 1611565969469,
+            "duration" : 887
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        }, {
+          "name" : "Test 05: delete one task from the list",
+          "uid" : "93df39f6cf5b1b71",
+          "parentUid" : "5ab0f6c9ce784c9ed673d9de5220cc77",
+          "status" : "passed",
+          "time" : {
+            "start" : 1611565969793,
+            "stop" : 1611565970912,
+            "duration" : 1119
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        } ],
+        "uid" : "5ab0f6c9ce784c9ed673d9de5220cc77"
+      } ],
+      "uid" : "88dd1c8a90831c85bd7e904fb72432f6"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}
